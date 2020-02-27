@@ -28,9 +28,9 @@ Help: [MarkDown Help](https://docs.gitlab.com/ee/user/markdown.html), [Markdown 
 * [donut](https://github.com/plowteam/donut) - Reimplementation of The Simpsons: Hit & Run 
 * [MafiaUnity](https://github.com/MafiaHub/MafiaUnity) - Open-source Mafia game framework
 * [OpenLara](https://github.com/XProger/OpenLara) - Tomb Raider open-source engine
-* [OpenTomb](https://github.com/opentomb/OpenTomb) - An open-source Tomb Raider 1-5 engine remake
 * [OpenJK](https://github.com/JACoders/OpenJK) - Community maintained fork of Jedi Academy and Jedi Outcast development
 * [OpenMB](https://github.com/cookgreen/OpenMB) - Role-playing game engine for Taleworlds' Mount&Blade Series
+* [OpenTomb](https://github.com/opentomb/OpenTomb) - An open-source Tomb Raider 1-5 engine remake
 * [ReMC2](https://github.com/turican0/remc2) - Reverse engineering of game Magic Carpet 2 from assembler
 * [RigelEngine](https://github.com/lethal-guitar/RigelEngine) - Reimplementation of Duke Nukem II in C++
 * [SanAndreaUnity](https://github.com/GTA-ASM/SanAndreasUnity) - Reimplementation of GTA San Andreas game engine in Unity
@@ -39,8 +39,8 @@ Help: [MarkDown Help](https://docs.gitlab.com/ee/user/markdown.html), [Markdown 
 ## Adventure
 * [engge](https://github.com/scemino/engge) - Experimental game engine for Thimbleweed park 
 * [rawgl](https://github.com/cyxx/rawgl) - Reimplementation of Another World
-* [ResidualVM](https://github.com/residualvm/residualvm) - Game engine reimplementation that allows you to play 3D adventure games such as Grim Fandango
-* [ScummVM](https://github.com/scummvm/scummvm#11-about-scummvm) - Allows you to run certain classic graphical point-and-click adventure games
+* [ResidualVM](https://github.com/residualvm/residualvm) - Game engine reimplementation that allows you to play 3D adventure games such as Grim Fandango and Escape from Monkey Island
+* [ScummVM](https://github.com/scummvm/scummvm#11-about-scummvm) - Allows you to run certain classic graphical point-and-click adventure games such Maniac Mansion and Monkey Island
 
 ## Arcade
 * [Barbarian](http://barbarian.1987.free.fr/indexEN.htm) - Open-source clone of Barbarian: The Ultimate Warrior
@@ -63,7 +63,7 @@ Help: [MarkDown Help](https://docs.gitlab.com/ee/user/markdown.html), [Markdown 
 * [DukeGDX](https://gitlab.com/m210/DukeGDX) - Duke Nukem 3D port
 * [ECWolf](https://bitbucket.org/ecwolf/ecwolf/src/master/) -  Port of Wolfenstein 3D based off of Wolf4SDL
 * [Eternity](https://github.com/team-eternity/eternity) - Advanced DOOM source port
-* [ezQuake](https://github.com/ezQuake/ezquake-source) - Combining the features of all modern QuakeWorld® clients, ezQuake makes QuakeWorld® easier to start and play
+* [ezQuake](https://github.com/ezQuake/ezquake-source) - Combining the features of all modern QuakeWorld clients, ezQuake makes QuakeWorld easier to start and play
 * [Freedoom](https://github.com/freedoom/freedoom) - Free software FPS based on the classic Doom engine.
 * [GlPortal](https://github.com/GlPortal/glPortal) - A modern 3D game and engine with portals written in C++
 * [GZDoom](https://github.com/coelckers/gzdoom) - Modder-friendly OpenGL and Vulkan source port based on the DOOM engine
@@ -93,24 +93,23 @@ Help: [MarkDown Help](https://docs.gitlab.com/ee/user/markdown.html), [Markdown 
 * [Barony](https://github.com/TurningWheel/Barony) - Open source release of Barony
 * [BtBuilder](https://github.com/dulsi/btbuilder) - An open source implementation of the Bard's Tale Construction Set
 * [Daggerfall Unity](https://github.com/Interkarma/daggerfall-unity) - Recreation of Daggerfall in the Unity engine
-* [Devilution](https://github.com/diasurgical/devilution) - Diablo port
-* [DevilutionX](https://github.com/diasurgical/devilutionX) - Improved Diablo port
+* [Devilution](https://github.com/diasurgical/devilution) - reconstructed form of Diablo's original source code
+* [DevilutionX](https://github.com/diasurgical/devilutionX) - Diablo build for modern operating systems 
 * [DGEngine](https://github.com/dgengin/DGEngine) - Implementation of the Diablo 1 game engine 
 * [Exult](https://github.com/exult/exult) - Project to recreate Ultima 7 for modern operating systems
-* [Falltergeist](https://github.com/falltergeist/falltergeist) - Crossplatform Fallout 2™ game engine writen in C++ and SDL
+* [Falltergeist](https://github.com/falltergeist/falltergeist) - Crossplatform Fallout 2 game engine writen in C++ and SDL
 * [Freeablo](https://github.com/wheybags/freeablo) - Open-source implementation of the Diablo I engine
 * [FreeFT](https://github.com/nadult/FreeFT) - Real-time, isometric action game engine inspired by Fallout Tactics
 * [GemRB](https://github.com/gemrb/gemrb) - Portable open-source reimplementation of the Infinity Engine
 * [OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2) - Open source re-implementation of Diablo 2
-* [OpenGothic](https://github.com/Try/OpenGothic) - Reimplementation of Gothic 2 Notr 
-* [OpenVIII](https://github.com/MaKiPL/OpenVIII) - Final Fantasy VIII engine implementation in C#
+* [OpenGothic](https://github.com/Try/OpenGothic) - Reimplementation of Gothic 2
 * [OpenMW](https://github.com/OpenMW/openmw) - Reimplementation of the Morrowind game engine.
-* [OpenPanzer](https://github.com/nicupavel/openpanzer) - HTML5 Panzer General 2
-* [OpenTESArena](https://github.com/afritz1/OpenTESArena) - Reimplementation of The Elder Scrolls: Arena. 
+* [OpenTESArena](https://github.com/afritz1/OpenTESArena) - Reimplementation of The Elder Scrolls: Arena
+* [OpenVIII](https://github.com/MaKiPL/OpenVIII) - Final Fantasy VIII engine implementation in C#
 * [REGoth](https://github.com/REGoth-project/REGoth-bs) An open source reimplementation of zEngine the engine behind Gothic and Gothic II
 * [Riiablo](https://github.com/collinsmith/riiablo) - Diablo II remade using Java and LibGDX
 * [SFall](https://github.com/phobos2077/sfall) - Engine modifications for Fallout 2 
-* [Shockolate](https://github.com/Interrupt/systemshock) - Same great System Shock, new great taste.
+* [Shockolate](https://github.com/Interrupt/systemshock) - Same great System Shock, new great taste
 * [UAlbion](https://github.com/csinkers/ualbion) - Remake of 1996 Albion
 * [Vangers](https://github.com/KranX/Vangers) - Racing/RPG hybrid made open-source by its creators, written in C++
 * [WitchhavenGDX](https://gitlab.com/m210/WitchavenGDX) - Witchaven java port
@@ -120,8 +119,8 @@ Help: [MarkDown Help](https://docs.gitlab.com/ee/user/markdown.html), [Markdown 
 ## Platformer
 * [Alive Reversing](https://github.com/AliveTeam/alive_reversing) - Reimplementation of Abe's Exoddus 
 * [Commander Genius](https://gitlab.com/Dringgstein/Commander-Genius) - Modern Interpreter for the Commander Keen Games
-* [Lionheart](https://github.com/b3dgs/lionheart-remake) - Java remake of Lionheart amiga game
 * [Jazz²](https://github.com/deathkiller/jazz2) - Reimplementation of Jazz Jackrabbit 2
+* [Lionheart](https://github.com/b3dgs/lionheart-remake) - Java remake of Lionheart amiga game
 * [NXEngine-evo](https://github.com/nxengine/nxengine-evo) - Rewrite of the masterpiece jump-and-run platformer Doukutsu Monogatari (also known as Cave Story)
 * [Omnispeak](https://github.com/sulix/omnispeak) - Reimplementation of "Commander Keen in Goodbye Galaxy"
 * [Prince Monogame](https://github.com/salvadorc17/Prince-Monogame) - Monogame implementation of Prince of Persia 2 
@@ -145,10 +144,10 @@ Help: [MarkDown Help](https://docs.gitlab.com/ee/user/markdown.html), [Markdown 
 * [CorsixTH](https://github.com/CorsixTH/CorsixTH) - Clone of Theme Hospital
 * [CortexCommand](https://github.com/cortex-command-community/Cortex-Command-Community-Project-Source) - Community-driven effort to continue the development of Cortex Command
 * [FreeCol](https://sourceforge.net/projects/freecol/) - Turn-based strategy game based on the old game Colonization
-* [KaM Remake](https://github.com/Kromster80/kam_remake) - RTS game remake of “Knights and Merchants”  written in Delphi from scratch
-* [KeeperRL](https://github.com/miki151/keeperrl) - Roguelike dungeon builder inspired by Dwarf Fortress.
 * [Jagged Alliance Stracciatella](https://github.com/ja2-stracciatella/ja2-stracciatella) - Goal of the project was to make Jagged Alliance 2 available on a wide range of platforms 
 * [Julius](https://github.com/bvschaik/julius) - Reimplementation of Caesar III
+* [KaM Remake](https://github.com/Kromster80/kam_remake) - RTS game remake of “Knights and Merchants”  written in Delphi from scratch
+* [KeeperRL](https://github.com/miki151/keeperrl) - Roguelike dungeon builder inspired by Dwarf Fortress
 * [openage](https://github.com/SFTtech/openage) - Clone of the Age of Empires II engine
 * [OpenApoc](https://github.com/OpenApoc/OpenApoc) - Rebuild of the XCOM Apocalypse Engine that requires the original files to run
 * [openblack](https://github.com/openblack/openblack) - Reimplementation of Black&White
@@ -156,15 +155,14 @@ Help: [MarkDown Help](https://docs.gitlab.com/ee/user/markdown.html), [Markdown 
 * [OpenFodder](https://github.com/OpenFodder/openfodder) - Open-source implementation of Cannon Fodder
 * [OpenHoW](https://github.com/TalonBraveInfo/OpenHoW) - Recreation of Gremlin's Hogs of War
 * [OpenLoco](https://github.com/OpenLoco/OpenLoco) - Reimplementation of Chris Sawyer's Locomotion
+* [OpenPanzer](https://github.com/nicupavel/openpanzer) - HTML5 Panzer General 2
 * [OpenRA](https://github.com/OpenRA/OpenRA) - Open-source implementation of the Red Alert engine using .NET/mono and OpenGL. Runs on Windows, Linux and OSX
+* [OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) - Open source recreation of Rollercoaster Tycoon 2
+* [OpenSAGE](https://github.com/OpenSAGE/OpenSAGE) - C# re-implementation of  SAGE, the game engine used by a bunch of EA Pacific games, including C&C:  Generals and Battle for Middle Earth
 * [OpenSCK2](https://github.com/nicholas-ochoa/OpenSC2K) - Remake of Sim City 2000 by Maxis 
 * [OpenTTD](https://github.com/OpenTTD/OpenTTD) - OpenTTD is a transport simulation game based upon the popular game Transport Tycoon Deluxe, written by Chris Sawyer
 * [OpenXcom](https://github.com/SupSuper/OpenXcom) - Clone of the original X-COM
-* [OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) - Open source recreation of Rollercoaster Tycoon 2
 * [OutpostHD](https://github.com/OutpostUniverse/OPHD) - Open source remake of Sierra On-Line's Outpost 
-* [Race into Space](https://github.com/raceintospace/raceintospace) - Turn-based space race strategy game originally by Interplay
-* [Seven Kingdoms: Ancient Adversaries](https://github.com/the3dfxdude/7kaa) - Classic RTS game liberated in 2009
-* [OpenSAGE](https://github.com/OpenSAGE/OpenSAGE) - C# re-implementation of  SAGE, the game engine used by a bunch of EA Pacific games, including C&C:  Generals and Battle for Middle Earth
 * [Race Into Space](https://github.com/raceintospace/raceintospace) - Version of Interplay's Buzz Aldrin's Race into Space
 * [Return to the Roots](https://github.com/Return-To-The-Roots/s25client) - Settlers II  remake written in C++
 * [Seven Kingdoms: Ancient Adversaries](https://github.com/the3dfxdude/7kaa) - GPL release of the Seven Kingdoms: Ancient Adversaries
@@ -176,5 +174,4 @@ Help: [MarkDown Help](https://docs.gitlab.com/ee/user/markdown.html), [Markdown 
 * [Zed Online](https://sourceforge.net/projects/zedonline/) - Remake of the 1996 classic game Z
 
 ## License
-
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
