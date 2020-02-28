@@ -1,0 +1,13 @@
+site_name: Awesome Game Remakes
+site_url: https://radek-sprta.gitlab.io/awesome-game-remakes
+site_description: A curated list of actively maintained open-source game remakes
+site_author: Radek Sprta
+repo_name: radek-sprta/awesome-game-remakes
+repo_url: https://gitlab.com/radek-sprta/awesome-game-remakes
+theme:
+  name: material
+  palette:
+    primary: red
+    accent: pink
+nav:
+  - "Modern ports of classic games": "index.md"

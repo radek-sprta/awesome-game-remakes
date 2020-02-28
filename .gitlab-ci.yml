@@ -1,0 +1,11 @@
+pages:
+  image: python:latest
+  script:
+    - pip install mkdocs
+    - pip install mkdocs-material
+    - mkdir docs
+    - cp README.md docs/index.md
+    - mkdocs build -d public/
+  artifacts:
+    paths:
+      - public

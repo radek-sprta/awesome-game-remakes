@@ -1,16 +1,8 @@
 # Awesome Game Remakes [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of actively maintained open-source game remakes. Inspired by [Games on Github](https://github.com/leereilly/games#readme).
-
-### Contributing
-
-If you'd like to add a repository to the list, please [create an Issue](https://gitlab.com/radek-sprta/awesome-game-remakes/issues), or fork this repository and submit a merge request ([click here to edit this file from Gitlab](https://gitlab.com/radek-sprta/awesome-game-remakes/edit/master/README.md)).
-
-Help: [MarkDown Help](https://docs.gitlab.com/ee/user/markdown.html), [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+A curated list of actively maintained open-source game remakes. Based on [Games on Github](https://github.com/leereilly/games#readme) and [Awesome Python](https://github.com/vinta/awesome-python).
 
 -------
-
-# Table of Contents
 
 - [Action](#user-content-action)
 - [Adventure](#user-content-adventure)
@@ -172,6 +164,12 @@ Help: [MarkDown Help](https://docs.gitlab.com/ee/user/markdown.html), [Markdown 
 * [Wargus](https://github.com/Wargus/wargus) -  Warcraft2 Mod that allows you to play Warcraft2 with the Stratagus engine
 * [Warzone 2100](https://github.com/Warzone2100/warzone2100) - Free and open source real time strategy game
 * [Zed Online](https://sourceforge.net/projects/zedonline/) - Remake of the 1996 classic game Z
+
+## Contributing
+
+If you'd like to add a repository to the list, please [create an Issue](https://gitlab.com/radek-sprta/awesome-game-remakes/issues), or fork this repository and submit a merge request ([click here to edit this file from Gitlab](https://gitlab.com/radek-sprta/awesome-game-remakes/edit/master/README.md)).
+
+Help: [MarkDown Help](https://docs.gitlab.com/ee/user/markdown.html), [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
