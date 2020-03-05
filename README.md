@@ -10,7 +10,7 @@ A curated list of actively maintained open-source game remakes. Based on [Games 
 - [FPS](#user-content-fps)
 - [Online](#user-content-online)
 - [RPG](#user-content-rpg)
-- [Platform](#user-content-platformer)
+- [Platformer](#user-content-platformer)
 - [Racing](#user-content-racing)
 - [Simulator](#user-content-simulator)
 - [Strategy](#user-content-strategy)
@@ -19,8 +19,8 @@ A curated list of actively maintained open-source game remakes. Based on [Games 
 * [Carnage3D](https://github.com/codenamecpp/carnage3d) - Reimplementation of Grand Theft Auto 1
 * [donut](https://github.com/plowteam/donut) - Reimplementation of The Simpsons: Hit & Run 
 * [MafiaUnity](https://github.com/MafiaHub/MafiaUnity) - Open-source Mafia game framework
-* [OpenLara](https://github.com/XProger/OpenLara) - Tomb Raider open-source engine
 * [OpenJK](https://github.com/JACoders/OpenJK) - Community maintained fork of Jedi Academy and Jedi Outcast development
+* [OpenLara](https://github.com/XProger/OpenLara) - Tomb Raider open-source engine
 * [OpenMB](https://github.com/cookgreen/OpenMB) - Role-playing game engine for Taleworlds' Mount&Blade Series
 * [OpenTomb](https://github.com/opentomb/OpenTomb) - An open-source Tomb Raider 1-5 engine remake
 * [ReMC2](https://github.com/turican0/remc2) - Reverse engineering of game Magic Carpet 2 from assembler
@@ -50,8 +50,8 @@ A curated list of actively maintained open-source game remakes. Based on [Games 
 * [CatacombGL](https://github.com/ArnoAnsems/CatacombGL) - Windows source port of Catacomb 3D and the Catacomb Adventure series
 * [Chocolate Doom](https://github.com/chocolate-doom/chocolate-doom) - Source port that is minimalist and historically accurate
 * [Doom Legacy](https://sourceforge.net/projects/doomlegacy/) - One of the most popular Doom source ports
-* [Doomsday Engine](https://github.com/skyjake/Doomsday-Engine) - Source port of id Software's Doom I/II and Raven Software's Heretic and Hexen
 * [DoomRetro](https://github.com/bradharding/doomretro) - Classic, refined DOOM source port for Windows PC
+* [Doomsday Engine](https://github.com/skyjake/Doomsday-Engine) - Source port of id Software's Doom I/II and Raven Software's Heretic and Hexen
 * [DukeGDX](https://gitlab.com/m210/DukeGDX) - Duke Nukem 3D port
 * [ECWolf](https://bitbucket.org/ecwolf/ecwolf/src/master/) -  Port of Wolfenstein 3D based off of Wolf4SDL
 * [Eternity](https://github.com/team-eternity/eternity) - Advanced DOOM source port
