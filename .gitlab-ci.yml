@@ -5,7 +5,7 @@ pages:
     - pip install mkdocs-material
     - mkdir docs
     - cp README.md docs/index.md
-    - cp CONTRIBURING.md docs/contriburing.md
+    - cp CONTRIBUTING.md docs/contributing.md
     - cp CREDITS.md docs/credits.md
     - cp LICENSE docs/license.md
     - mkdocs build -d public/
