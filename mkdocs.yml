@@ -11,3 +11,6 @@ theme:
     accent: pink
 nav:
   - "Modern ports of classic games": "index.md"
+  - "Contribute": "contributing.md"
+  - "Credits": "credits.md"
+  - "License": "license.md"
