@@ -48,6 +48,7 @@ Actively maintained open-source game remakes.
 
 ## FPS
 - [Allegiance](https://github.com/FreeAllegiance/Allegiance) - Allegiance is RTS and FPS Space Combat game.
+- [BStone](https://github.com/bibendovsky/bstone) - A source port of Blake Stone: Aliens Of Gold and Blake Stone: Planet Strike.
 - [CatacombGL](https://github.com/ArnoAnsems/CatacombGL) - Windows source port of Catacomb 3D and the Catacomb Adventure series.
 - [Chocolate Doom](https://github.com/chocolate-doom/chocolate-doom) - Source port that is minimalist, historically accurate and includes ports of Heretic and Hexen, and Strife.
 - [Doom Legacy](https://sourceforge.net/projects/doomlegacy/) - One of the most popular DOOM source ports, which enhances it with things like TCP/IP networking, OpenGL renderer etc.
