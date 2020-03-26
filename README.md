@@ -113,7 +113,7 @@ Actively maintained open-source game remakes.
 - [Jazz² Resurrection](https://github.com/deathkiller/jazz2) - Reimplementation of Jazz Jackrabbit 2.
 - [Lionheart Remake](https://github.com/b3dgs/lionheart-remake) - Java remake of Lionheart Amiga game.
 - [NXEngine-evo](https://github.com/nxengine/nxengine-evo) - Rewrite of the masterpiece jump-and-run platformer Doukutsu Monogatari (also known as Cave Story).
-- [Omnispeak](https://github.com/sulix/omnispeak) - Reimplementation of "Commander Keen in Goodbye Galaxy".
+- [Omnispeak](https://github.com/sulix/omnispeak) - Reimplementation of Commander Keen in Goodbye Galaxy.
 - [Prince-Monogame](https://github.com/salvadorc17/Prince-Monogame) - Monogame implementation of Prince of Persia 2.
 - [SDLPoP](https://github.com/NagyD/SDLPoP) - Port of Prince of Persia, based on the disassembly of the DOS version.
 - [The Secret Chronicles of Dr. M](https://github.com/secretchronicles/TSC) - Adaptation of Secret Mario Chronicles.
