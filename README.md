@@ -79,6 +79,7 @@ Actively maintained open-source game remakes.
 - [Opengate](https://sourceforge.net/projects/opengate/) - Remake of Jumpgate.
 - [RuneLite](https://github.com/runelite/runelite) - Open source old school RuneScape client.
 - [Ryzom Core](https://bitbucket.org/ryzom/ryzomcore/src/develop/) - Ryzom Core contains the whole code (client, server, tools) used to make the commercial MMORPG Ryzom.
+- [Space Station 14](https://github.com/space-wizards/space-station-14) - Space Station 14 is a revived attempt at an Space Station 13 remake.
 
 ## RPG
 - [Arx Libertatis](https://github.com/arx/ArxLibertatis) - Cross-platform port of Arx Fatalis, a first-person role-playing game.
