@@ -68,6 +68,7 @@ Actively maintained open-source game remakes.
 - [RBDOOM-3-BFG](https://github.com/RobertBeckebans/RBDOOM-3-BFG) - Doom 3 BFG Edition with soft shadows, cleaned up source, Linux and 64 bit Support.
 - [RedneckGDX](https://gitlab.com/m210/RedneckGDX) - Port of Redneck Rampage.
 - [The Eternity Engine](https://github.com/team-eternity/eternity) - Advanced DOOM source port.
+- [The Force Engine](https://github.com/luciusDXL/TheForceEngine) - Jedi Engine for modern systems and the games that used that engine - Dark Forces and Outlaws.
 - [Tyrquake](https://github.com/libretro/tyrquake) - Libretro port of Tyrquake.
 - [Yamagi Quake II](https://github.com/yquake2/yquake2) - Enhanced client for id Software's Quake II with focus on offline and coop gameplay.
 - [vkQuake](https://github.com/Novum/vkQuake) - Quake port using Vulkan instead of OpenGL for rendering.
