@@ -2,6 +2,8 @@
 
 Actively maintained open-source game remakes.
 
+If you are also interested in clones and similar games (0 A.D. etc.), take a look at [Open Source Game Clones](https://osgameclones.com/).
+
 ---
 
 ## Contents
