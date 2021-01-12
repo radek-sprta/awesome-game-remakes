@@ -81,7 +81,7 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 - [Meridian 59](https://github.com/Meridian59/Meridian59) - The first 3D MMORPG, released in 1996 and open sourced in 2012. The original codebase for Meridian 59.
 - [Opengate](https://sourceforge.net/projects/opengate/) - Remake of Jumpgate.
 - [RuneLite](https://github.com/runelite/runelite) - Open source old school RuneScape client.
-- [Ryzom Core](https://bitbucket.org/ryzom/ryzomcore/src/develop/) - Ryzom Core contains the whole code (client, server, tools) used to make the commercial MMORPG Ryzom.
+- [Ryzom Core](https://github.com/ryzom/ryzomcore) - Ryzom Core contains the whole code (client, server, tools) used to make the commercial MMORPG Ryzom.
 - [Space Station 14](https://github.com/space-wizards/space-station-14) - Space Station 14 is a revived attempt at an Space Station 13 remake.
 
 ## RPG
