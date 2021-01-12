@@ -132,7 +132,6 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 - [DXX-Rebirth](https://github.com/dxx-rebirth/dxx-rebirth) - Source port of the Descent and Descent 2 Engines for Windows, macOS, Linux.
 - [FS2Open](https://github.com/scp-fs2open/fs2open.github.com) - FreeSpace2 Source Code Project.
 - [Librelancer](https://github.com/Librelancer/Librelancer) - Reimplementation of the 2003 space game Freelancer.
-- [Open Horizon](https://github.com/undefined-darkness/open-horizon) - Open source implementation of Ace Combat: Assault Horizon's render and physics.
 
 ## Strategy
 - [Antares](https://github.com/arescentral/antares) - Remake of Ares, a tactical space combat game.
