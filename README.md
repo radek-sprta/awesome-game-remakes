@@ -149,6 +149,7 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 - [OpenDUNE](https://github.com/OpenDUNE/OpenDUNE) - Recreation of the popular game Dune II.
 - [Open Fodder](https://github.com/OpenFodder/openfodder) - Open-source implementation of Cannon Fodder.
 - [OpenHoW](https://github.com/TalonBraveInfo/OpenHoW) - Recreation of Gremlin's Hogs of War.
+- [OpenHV](https://github.com/OpenHV/OpenHV) - Open-source implementation of Hard Vacuum.
 - [OpenLoco](https://github.com/OpenLoco/OpenLoco) - Reimplementation of Chris Sawyer's Locomotion.
 - [Open Panzer](https://github.com/nicupavel/openpanzer) - HTML5 Panzer General 2.
 - [OpenRA](https://github.com/OpenRA/OpenRA) - Implementation of the Red Alert engine using .NET/mono and OpenGL. Runs on Windows, Linux and macOS.
