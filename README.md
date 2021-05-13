@@ -26,6 +26,7 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 - [OpenLara](https://github.com/XProger/OpenLara) - Classic Tomb Raider open-source engine.
 - [OpenMB](https://github.com/cookgreen/OpenMB) - Role-playing game engine for Taleworlds' Mount&Blade Series.
 - [OpenTomb](https://github.com/opentomb/OpenTomb) - Original Tomb Raider 1-5 experience with contemporary updates, features and additions.
+- [re3](https://github.com/td512/re3) - Reversed source code for GTA III and GTA: Vice City.
 - [remc2](https://github.com/turican0/remc2) - Reverse engineering of Magic Carpet 2 from Assembler.
 - [Rigel Engine](https://github.com/lethal-guitar/RigelEngine) - Mdern reimplementation of the classic DOS game Duke Nukem II in C++.
 - [San Andreas Unity](https://github.com/GTA-ASM/SanAndreasUnity) - Reimplementation of GTA: San Andreas game engine in Unity.
