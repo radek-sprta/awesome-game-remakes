@@ -28,7 +28,7 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 - [OpenTomb](https://github.com/opentomb/OpenTomb) - Original Tomb Raider 1-5 experience with contemporary updates, features and additions.
 - [re3](https://github.com/td512/re3) - Reversed source code for GTA III and GTA: Vice City.
 - [remc2](https://github.com/turican0/remc2) - Reverse engineering of Magic Carpet 2 from Assembler.
-- [Rigel Engine](https://github.com/lethal-guitar/RigelEngine) - Mdern reimplementation of the classic DOS game Duke Nukem II in C++.
+- [Rigel Engine](https://github.com/lethal-guitar/RigelEngine) - Modern reimplementation of the classic DOS game Duke Nukem II in C++.
 - [San Andreas Unity](https://github.com/GTA-ASM/SanAndreasUnity) - Reimplementation of GTA: San Andreas game engine in Unity.
 - [TOMB5](https://github.com/TOMB5/TOMB5) - Tomb Raider: Chronicles disassembly translated to C source code.
 
