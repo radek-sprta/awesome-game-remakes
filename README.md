@@ -83,7 +83,7 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 - [Opengate](https://sourceforge.net/projects/opengate/) - Remake of Jumpgate.
 - [RuneLite](https://github.com/runelite/runelite) - Open source old school RuneScape client.
 - [Ryzom Core](https://github.com/ryzom/ryzomcore) - Ryzom Core contains the whole code (client, server, tools) used to make the commercial MMORPG Ryzom.
-- [Space Station 14](https://github.com/space-wizards/space-station-14) - Space Station 14 is a revived attempt at an Space Station 13 remake.
+- [Space Station 14](https://github.com/space-wizards/space-station-14) - Space Station 14 is a revived attempt at a Space Station 13 remake.
 
 ## RPG
 - [Arx Libertatis](https://github.com/arx/ArxLibertatis) - Cross-platform port of Arx Fatalis, a first-person role-playing game.
