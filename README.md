@@ -78,6 +78,7 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 - [Tyrquake](https://github.com/libretro/tyrquake) - Libretro port of Tyrquake.
 - [Yamagi Quake II](https://github.com/yquake2/yquake2) - Enhanced client for id Software's Quake II with focus on offline and coop gameplay.
 - [vkQuake](https://github.com/Novum/vkQuake) - Quake port using Vulkan instead of OpenGL for rendering.
+- [Zandronum](https://zandronum.com/) - Multiplayer oriented port, based off Skulltag, for Doom and Doom II. Also runs Heretic, Hexen and Strife.
 
 ## Online
 - [2006rebotted](https://github.com/dginovker/2006rebotted) - A 2006 Runescape Emulation Server.
