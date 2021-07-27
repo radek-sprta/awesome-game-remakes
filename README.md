@@ -61,6 +61,7 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 - [ECWolf](https://bitbucket.org/ecwolf/ecwolf/src/master/) - Port of Wolfenstein 3D based on Wolf4SDL.
 - [ezQuake](https://github.com/ezQuake/ezquake-source) - Combining the features of all modern QuakeWorld clients, ezQuake makes QuakeWorld easier to start and play.
 - [Freedoom](https://github.com/freedoom/freedoom) - Free software FPS based on the classic DOOM engine.
+- [FTEQW](https://fte.triptohell.info/) - FPS Engine for Quake 1, QuakeWorld, Quake 2, Hexen II & Quake III Arena.
 - [GZDoom](https://github.com/coelckers/gzdoom) - Modder-friendly OpenGL and Vulkan source port based on the DOOM engine.
 - [Hexen II: Hammer of Thyrion](https://sourceforge.net/p/uhexen2/code/HEAD/tree/) - Cross-platform port of the Hexen II game.
 - [ioquake3](https://github.com/ioquake/ioq3) - The free software FPS engine that can be used to play Quake 3, or make your own game.
