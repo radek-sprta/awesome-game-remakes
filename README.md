@@ -43,6 +43,7 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 - [C-Dogs SDL](https://github.com/cxong/cdogs-sdl) - Classic overhead run-and-gun game.
 - [Mr.Boom](https://github.com/Javanaise/mrboom-libretro) - 8 player Bomberman clone for RetroArch/Libretro.
 - [OpenClonk](https://github.com/openclonk/openclonk) - Multiplayer action game where you control small and nimble humanoids.
+- [OpenJazz](https://github.com/AlisterT/openjazz) - Free, open-source version of the classic Jazz Jackrabbit™ games.
 - [Open Kick-Off](https://github.com/ssenegas/kickoff) - Rewriting attempt of the cult football game Kick Off 2.
 - [OpenTyrian](https://github.com/opentyrian/opentyrian) - An open-source port of Tyrian from Turbo Pascal to C.
 - [Taisei](https://github.com/taisei-project/taisei) - Fan-made, open-source clone of the Touhou series.
