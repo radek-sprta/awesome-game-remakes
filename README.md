@@ -140,6 +140,7 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 - [Librelancer](https://github.com/Librelancer/Librelancer) - Reimplementation of the 2003 space game Freelancer.
 
 ## Strategy
+- [Ancient Beast](https://github.com/FreezingMoon/AncientBeast) - Modern reimplementation of Heroes of Might and Magic III's combat system.
 - [Antares](https://github.com/arescentral/antares) - Remake of Ares, a tactical space combat game.
 - [CivOne](https://github.com/SWY1985/CivOne) - Implementation of Sid Meier's Civilization.
 - [CorsixTH](https://github.com/CorsixTH/CorsixTH) - Clone of Theme Hospital with support for modern operating systems, high resolutions and much more.
