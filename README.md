@@ -175,3 +175,4 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 - [Wargus](https://github.com/Wargus/wargus) -  Warcraft 2 Mod that allows you to play Warcraft 2 with the Stratagus engine.
 - [Warzone 2100](https://github.com/Warzone2100/warzone2100) - Free and open-source real time strategy game.
 - [Zed Online](https://sourceforge.net/projects/zedonline/) - Remake of the 1996 classic game Z.
+- [Stone Kingdoms](https://gitlab.com/stone-kingdoms/stone-kingdoms) - Real time strategy based on the original Stronghold by Firefly Studios.  
