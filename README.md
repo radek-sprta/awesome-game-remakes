@@ -106,6 +106,7 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 - [OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2) - Open source re-implementation of Diablo 2.
 - [OpenGothic](https://github.com/Try/OpenGothic) - Reimplementation of Gothic 2: Night of the Raven.
 - [OpenMW](https://github.com/OpenMW/openmw) - Reimplementation of the Morrowind game engine.
+- [OpenNox](https://github.com/noxworld-dev/opennox) - Collaboration project extending the Nox engine.
 - [OpenTESArena](https://github.com/afritz1/OpenTESArena) - Modern engine reimplementation of The Elder Scrolls: Arena by Bethesda Softworks.
 - [OpenVIII](https://github.com/MaKiPL/OpenVIII) - Final Fantasy VIII engine implementation in C#.
 - [REGoth](https://github.com/REGoth-project/REGoth-bs) - An open source reimplementation of zEngine the engine behind Gothic and Gothic II.
