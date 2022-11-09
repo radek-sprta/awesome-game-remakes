@@ -89,6 +89,7 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 - [RuneLite](https://github.com/runelite/runelite) - Open source old school RuneScape client.
 - [Ryzom Core](https://github.com/ryzom/ryzomcore) - Ryzom Core contains the whole code (client, server, tools) used to make the commercial MMORPG Ryzom.
 - [Space Station 14](https://github.com/space-wizards/space-station-14) - Space Station 14 is a revived attempt at a Space Station 13 remake.
+- [2009scape](https://2009scape.org) - A free & open-source remake of 2009 era RuneScape.
 
 ## RPG
 - [Arx Libertatis](https://github.com/arx/ArxLibertatis) - Cross-platform port of Arx Fatalis, a first-person role-playing game.
