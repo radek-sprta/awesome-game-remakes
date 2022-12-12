@@ -1,13 +1,3 @@
-stages:
-  - lint
-  - deploy
-
-lint:awesome-lint:
-  image: pipelinecomponents/awesome-lint
-  script:
-    - awesome-lint README.md
-  stage: lint
-
 pages:
   image: python:latest
   script:
@@ -19,7 +9,6 @@ pages:
     - cp CREDITS.md docs/credits.md
     - cp LICENSE docs/license.md
     - mkdocs build -d public/
-  stage: deploy
   artifacts:
     paths:
       - public
