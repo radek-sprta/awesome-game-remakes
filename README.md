@@ -83,13 +83,14 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 
 ## Online
 - [2006rebotted](https://github.com/dginovker/2006rebotted) - A 2006 Runescape Emulation Server.
+- [2009scape](https://2009scape.org) - A free & open-source remake of 2009 era RuneScape.
 - [FreeSO](https://github.com/riperiperi/FreeSO) - Reimplementation of The Sims Online, targetted mainly at mobile devices.
 - [Meridian 59](https://github.com/Meridian59/Meridian59) - The first 3D MMORPG, released in 1996 and open sourced in 2012. The original codebase for Meridian 59.
+- [MineClone2](https://git.minetest.land/MineClone2/MineClone2) - Stable, moddable & free/libre clone of Minecraft based on the Minetest engine.
 - [Opengate](https://sourceforge.net/projects/opengate/) - Remake of Jumpgate.
 - [RuneLite](https://github.com/runelite/runelite) - Open source old school RuneScape client.
 - [Ryzom Core](https://github.com/ryzom/ryzomcore) - Ryzom Core contains the whole code (client, server, tools) used to make the commercial MMORPG Ryzom.
 - [Space Station 14](https://github.com/space-wizards/space-station-14) - Space Station 14 is a revived attempt at a Space Station 13 remake.
-- [2009scape](https://2009scape.org) - A free & open-source remake of 2009 era RuneScape.
 
 ## RPG
 - [Arx Libertatis](https://github.com/arx/ArxLibertatis) - Cross-platform port of Arx Fatalis, a first-person role-playing game.
