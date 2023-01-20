@@ -174,6 +174,7 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 - [Return To The Roots](https://github.com/Return-To-The-Roots/s25client) - Settlers II remake written in C++.
 - [Seven Kingdoms: Ancient Adversaries](https://github.com/the3dfxdude/7kaa) - GPL release of the Seven Kingdoms: Ancient Adversaries.
 - [Sourcehold](https://github.com/sourcehold/Sourcehold) - Implementation of Stronghold by Firefly Studios.
+- [Stone Kingdoms](https://gitlab.com/stone-kingdoms/stone-kingdoms) - A real-time strategy game made with LÖVE based on the original Stronghold by Firefly studios.
 - [VanillaConquer](https://github.com/TheAssemblyArmada/Vanilla-Conquer/) - Command and Conquer and Red Alert original release source port based on the remaster source code drop.
 - [VCMI](https://github.com/vcmi/vcmi) - Engine for Heroes of Might and Magic III.
 - [Warcraft Remake](https://github.com/b3dgs/warcraft-remake) - Java remake of Warcraft: Orcs & Humans.
