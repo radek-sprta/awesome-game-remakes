@@ -115,6 +115,7 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 - [REGoth](https://github.com/REGoth-project/REGoth-bs) - An open source reimplementation of zEngine the engine behind Gothic and Gothic II.
 - [Riiablo](https://github.com/collinsmith/riiablo) - Diablo II remade using Java and LibGDX.
 - [sfall](https://github.com/phobos2077/sfall) - A set of engine modifications for the classic game Fallout 2.
+- [Shipwright](https://github.com/HarbourMasters/Shipwright) - A PC port of Zelda Ocarina of Time allowing you to enjoy the game with modern controls, widescreen, high-resolution, gyroscopy and other great features!
 - [Shockolate](https://github.com/Interrupt/systemshock) - Same great System Shock, new great taste.
 - [UAlbion](https://github.com/csinkers/ualbion) - Remake of 1995 Albion.
 - [WitchavenGDX](https://gitlab.com/m210/WitchavenGDX) - Witchaven Java port.
@@ -130,6 +131,7 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 - [Omnispeak](https://github.com/sulix/omnispeak) - Reimplementation of Commander Keen in Goodbye Galaxy.
 - [Prince-Monogame](https://github.com/salvadorc17/Prince-Monogame) - Monogame implementation of Prince of Persia 2.
 - [SDLPoP](https://github.com/NagyD/SDLPoP) - Port of Prince of Persia, based on the disassembly of the DOS version.
+- [sm64-port](https://github.com/sm64-port/sm64-port) - A port of Super Mario 64 for modern devices.
 - [The Secret Chronicles of Dr. M](https://github.com/secretchronicles/TSC) - Adaptation of Secret Mario Chronicles.
 - [VVVVV](https://github.com/TerryCavanagh/vvvvvv) - The source code to VVVVVV.
 
@@ -138,6 +140,7 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 - [OpenNFS](https://github.com/OpenNFS/OpenNFS) - Attempt to recreate the classic Need for Speed Games (1-6).
 - [Vangers](https://github.com/KranX/Vangers) - Racing/RPG hybrid made open-source by its creators, written in C++.
 - [Vange-rs](https://github.com/kvark/vange-rs) - The idea of this project is to replicate the old look and behavior of Vangers, but with native hardware acceleration for the graphics.
+- [REDRIVER2](https://github.com/OpenDriver2/REDRIVER2) - A Driver 2 open source reimplementation, dissasembled and translated to C. 
 
 ## Simulator
 - [DXX-Rebirth](https://github.com/dxx-rebirth/dxx-rebirth) - Source port of the Descent and Descent 2 Engines for Windows, macOS, Linux.
