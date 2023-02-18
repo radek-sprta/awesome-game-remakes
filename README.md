@@ -105,6 +105,7 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 - [Freeablo](https://github.com/wheybags/freeablo) - Open-source implementation of the Diablo engine.
 - [FreeFT](https://github.com/nadult/FreeFT) - Real-time, isometric action game engine inspired by Fallout Tactics.
 - [GemRB](https://github.com/gemrb/gemrb) - Portable open-source reimplementation of the Infinity Engine (used by Baldur's Gate, Icewind Dale and more).
+- [Zelda3](https://github.com/snesrev/zelda3) - This is a reverse engineered clone of Zelda 3 - A Link to the Past.
 - [OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2) - Open source re-implementation of Diablo 2.
 - [OpenEnroth](https://github.com/OpenEnroth/OpenEnroth) - Might and Magic VI-VIII engine remake using original data & code.
 - [OpenGothic](https://github.com/Try/OpenGothic) - Reimplementation of Gothic 2: Night of the Raven.
