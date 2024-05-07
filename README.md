@@ -56,6 +56,7 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 - [BStone](https://github.com/bibendovsky/bstone) - A source port of Blake Stone: Aliens Of Gold and Blake Stone: Planet Strike.
 - [CatacombGL](https://github.com/ArnoAnsems/CatacombGL) - Windows source port of Catacomb 3D and the Catacomb Adventure series.
 - [Chocolate Doom](https://github.com/chocolate-doom/chocolate-doom):flower_playing_cards: - Source port that is minimalist, historically accurate and includes ports of Heretic and Hexen, and Strife.
+- [ClassiCube](https://github.com/ClassiCube/ClassiCube):flower_playing_cards: - Minecraft Classic compatible client written in C from scratch.
 - [Doom Legacy](https://sourceforge.net/projects/doomlegacy/):flower_playing_cards: - One of the most popular DOOM source ports, which enhances it with things like TCP/IP networking, OpenGL renderer etc.
 - [DoomRetro](https://github.com/bradharding/doomretro):flower_playing_cards: - Classic, refined DOOM source port for Windows PC.
 - [Doomsday Engine](https://github.com/skyjake/Doomsday-Engine:flower_playing_cards::flower_playing_cards:):flower_playing_cards: - Source port of id Software's DOOM I/II and Raven Software's Heretic and Hexen.
