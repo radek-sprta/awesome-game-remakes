@@ -70,7 +70,7 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 - [Hexen II: Hammer of Thyrion](https://sourceforge.net/p/uhexen2/code/HEAD/tree/) - Cross-platform port of the Hexen II game.
 - [ioquake3](https://github.com/ioquake/ioq3) - The free software FPS engine that can be used to play Quake 3, or make your own game.
 - [NBlood](https://github.com/nukeykt/NBlood) - Port of the classic FPS Blood.
-- [Odamex](https://github.com/odamex/odamex):flower_playing_cards: - Online multiplayer DOOM port with a strong focus on the original gameplay while providing a breadth of enhancements. 
+- [Odamex](https://github.com/odamex/odamex):flower_playing_cards: - Online multiplayer DOOM port with a strong focus on the original gameplay while providing a breadth of enhancements.
 - [OpenSpades](https://github.com/yvt/openspades) - Compatible client of Ace of Spades, a voxel FPS.
 - [QuakeSpasm](https://sourceforge.net/projects/quakespasm/) - A modern, cross-platform Quake game engine.
 - [RBDOOM-3-BFG](https://github.com/RobertBeckebans/RBDOOM-3-BFG) - Doom 3 BFG Edition with soft shadows, cleaned up source, Linux and 64 bit Support.
