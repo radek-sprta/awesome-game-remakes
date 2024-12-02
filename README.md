@@ -122,6 +122,7 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 - [sfall](https://github.com/phobos2077/sfall) - A set of engine modifications for the classic game Fallout 2.
 - [Shockolate](https://github.com/Interrupt/systemshock) - Same great System Shock, new great taste.
 - [UAlbion](https://github.com/csinkers/ualbion) - Remake of 1995 Albion.
+- [UnderworldGodot](https://github.com/hankmorgan/UnderworldGodot) - An engine recreation of Ultima Underworld and Ultima Underworld 2 in the Godot Engine.
 - [WitchavenGDX](https://gitlab.com/m210/WitchavenGDX) - Witchaven Java port.
 - [xoreos](https://github.com/xoreos/xoreos) - Implementation of BioWare's Aurora engine and its derivatives (used by Neverwinter Nights, The Witcher and more).
 - [Zelda3](https://github.com/snesrev/zelda3) - This is a reverse engineered clone of Zelda 3 - A Link to the Past.
