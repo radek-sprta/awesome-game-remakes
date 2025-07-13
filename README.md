@@ -70,6 +70,7 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 - [Hexen II: Hammer of Thyrion](https://sourceforge.net/p/uhexen2/code/HEAD/tree/) - Cross-platform port of the Hexen II game.
 - [ioquake3](https://github.com/ioquake/ioq3) - The free software FPS engine that can be used to play Quake 3, or make your own game.
 - [NBlood](https://github.com/nukeykt/NBlood) - Port of the classic FPS Blood.
+- [NearChuckle](https://github.com/rohit-n/NearChuckle) - A Linux port of Far Cry 1.
 - [Odamex](https://github.com/odamex/odamex) - Online multiplayer DOOM port with a strong focus on the original gameplay while providing a breadth of enhancements. :flower_playing_cards:
 - [OpenMoHAA](https://github.com/openmoh/openmohaa) - Open re-implementation of Medal of Honor: Allied Assault including Spearhead and Breakthrough expansions.
 - [OpenSpades](https://github.com/yvt/openspades) - Compatible client of Ace of Spades, a voxel FPS.
