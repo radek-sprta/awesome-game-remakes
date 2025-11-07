@@ -27,8 +27,6 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 - [OpenLara](https://github.com/XProger/OpenLara) - Classic Tomb Raider open-source engine.
 - [OpenMB](https://github.com/cookgreen/OpenMB) - Role-playing game engine for Taleworlds' Mount&Blade Series.
 - [OpenRW](https://openrw.org/) - A cross-platform, open source re-implementation of Rockstar Games' Grand Theft Auto III.
-- [OpenTomb](https://github.com/opentomb/OpenTomb) - Original Tomb Raider 1-5 experience with contemporary updates, features and additions.
-- [re3](https://github.com/halpz/re3) - Reversed source code for GTA III and GTA: Vice City.
 - [remc2](https://github.com/turican0/remc2) - Reverse engineering of Magic Carpet 2 from Assembler.
 - [Rigel Engine](https://github.com/lethal-guitar/RigelEngine) - Modern reimplementation of the classic DOS game Duke Nukem II in C++.
 - [San Andreas Unity](https://github.com/GTA-ASM/SanAndreasUnity) - Reimplementation of GTA: San Andreas game engine in Unity.
@@ -41,7 +39,7 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 ## Arcade
 - [Barbarian](http://barbarian.1987.free.fr/indexEN.htm) - Open-source clone of Barbarian: The Ultimate Warrior.
 - [C-Dogs SDL](https://github.com/cxong/cdogs-sdl) - Classic overhead run-and-gun game. :flower_playing_cards:
-- [Mr.Boom](https://github.com/Javanaise/mrboom-libretro) - 8 player Bomberman clone for RetroArch/Libretro.
+- [Mr.Boom](https://github.com/Javanaise/mrboom-libretro) - 8-player Bomberman clone for RetroArch/Libretro.
 - [OpenClonk](https://github.com/openclonk/openclonk) - Multiplayer action game where you control small and nimble humanoids.
 - [OpenJazz](https://github.com/AlisterT/openjazz) - Free, open-source version of the classic Jazz Jackrabbit™ games.
 - [Open Kick-Off](https://github.com/ssenegas/kickoff) - Rewriting attempt of the cult football game Kick Off 2. :flower_playing_cards:
