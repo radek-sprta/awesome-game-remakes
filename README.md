@@ -188,6 +188,7 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 - [dethrace](https://github.com/dethrace-labs/dethrace) - Reverse engineering the 1997 game "Carmageddon"
 - [hi-octane202x](https://github.com/woalexan/hi-octane202x) - Hi-Octane with level editor using Irrlicht engine.
 - [HiOctaneTools](https://github.com/movAX13h/HiOctaneTools) - Tools to inspect and modify levels of the game Hi-Octane by Bullfrog (1995).
+- [Open76](https://github.com/rob518183/Open76) - Interstate '76 engine reimplementation
 - [OpenNFS](https://github.com/OpenNFS/OpenNFS) - Attempt to recreate the classic Need for Speed Games (1-6).
 - [tube64](https://github.com/rep-stosw/tube64) - 64-bit vesion of DOS game Tube (Bullfrog, 1994)
 - [Vangers](https://github.com/KranX/Vangers) - Racing/RPG hybrid made open-source by its creators, written in C++.
@@ -196,8 +197,11 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 - [retruxx](https://github.com/mindflower/retruxx) - Reverse engineered Hard Truck Apocalypse.
 
 ## Simulator
-- [Descent3](https://github.com/DescentDevelopers/Descent3) - Descent 3 by Outrage Entertainment
+- [Descent3](https://github.com/DMJC/Descent3) - Descent 3 by Outrage Entertainment
 - [DXX-Rebirth](https://github.com/dxx-rebirth/dxx-rebirth) - Source port of the Descent and Descent 2 Engines for Windows, macOS, Linux.
+- [dxx-vr](https://github.com/DMJC/dxx-vr) - Descent 1&2 VR source port based on DXX-Retro
+- [ForsakenX](https://github.com/ForsakenX/forsaken) - Forsaken game engine.
+- [ForsakenW](https://github.com/ForsakenW/forsaken) - The Forsaken source code.
 - [Free Stars: The Ur-Quan Masters](https://sc2.sourceforge.net/) - Open source version of the classic Star Control 2.
 - [FS2Open](https://github.com/scp-fs2open/fs2open.github.com) - FreeSpace2 Source Code Project.
 - [Librelancer](https://github.com/Librelancer/Librelancer) - Reimplementation of the 2003 space game Freelancer.
