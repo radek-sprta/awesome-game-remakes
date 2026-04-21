@@ -5,10 +5,10 @@ on:
   # but only for the master branch
   push:
     branches:
-      - master
+      - main
   pull_request:
     branches:
-      - master
+      - main
 
 jobs:
   lint:
