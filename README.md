@@ -46,6 +46,7 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 ## Arcade
 - [AcidDrop](https://github.com/lostjared/AcidDrop) - Remake of classic Atari 2600 game "Acid Drop".
 - [Barbarian](http://barbarian.1987.free.fr/indexEN.htm) - Open-source clone of Barbarian: The Ultimate Warrior.
+- [Battle City](https://github.com/vgrichina/battlecity) - Browser reimplementation of Namco's 1985 Battle City (Famicom version), built from a full annotated 6502 disassembly. Playable at https://battle-city.berrry.app. :flower_playing_cards:
 - [C-Dogs SDL](https://github.com/cxong/cdogs-sdl) - Classic overhead run-and-gun game. :flower_playing_cards:
 - [Crimsonland](https://github.com/banteg/crimson) - Faithful from-scratch rewrite of the twin-stick shooter Crimsonland.
 - [Mr.Boom](https://github.com/Javanaise/mrboom-libretro) - 8-player Bomberman clone for RetroArch/Libretro.
