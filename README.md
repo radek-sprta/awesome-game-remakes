@@ -47,6 +47,7 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 ## Arcade
 - [AcidDrop](https://github.com/lostjared/AcidDrop) - Remake of classic Atari 2600 game "Acid Drop".
 - [Barbarian](http://barbarian.1987.free.fr/indexEN.htm) - Open-source clone of Barbarian: The Ultimate Warrior.
+- [Battle City](https://github.com/vgrichina/battlecity) - Browser reimplementation of Namco's 1985 Battle City (Famicom version), built from a full annotated 6502 disassembly. Playable at https://battle-city.berrry.app. :flower_playing_cards:
 - [C-Dogs SDL](https://github.com/cxong/cdogs-sdl) - Classic overhead run-and-gun game. :flower_playing_cards:
 - [Crimsonland](https://github.com/banteg/crimson) - Faithful from-scratch rewrite of the twin-stick shooter Crimsonland.
 - [Mr.Boom](https://github.com/Javanaise/mrboom-libretro) - 8-player Bomberman clone for RetroArch/Libretro.
@@ -171,6 +172,7 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 - [BanjoRecomp](https://github.com/BanjoRecomp/BanjoRecomp) - PC Port of Banjo-Kazooie made using N64: Recompiled.
 - [Commander Genius](https://gitlab.com/Dringgstein/Commander-Genius) - Modern Interpreter for the Commander Keen Games. :flower_playing_cards:
 - [Ghostship](https://github.com/HarbourMasters/Ghostship) - Super Mario 64 reimplementation for PC.
+- [Jak Project](https://github.com/open-goal/jak-project) - The project's goal is to port the original trilogy (Jak 1 -> Jak 3) to PC.
 - [Jazz² Resurrection](https://github.com/deathkiller/jazz2) - Reimplementation of Jazz Jackrabbit 2.
 - [Lionheart Remake](https://github.com/b3dgs/lionheart-remake) - Java remake of Lionheart Amiga game.
 - [ManicMinerLL](https://github.com/RustyPixelsUK/ManicMinerLL) - A re-working of Manic Miner onto the DS using levels created for other official computer released versions.
