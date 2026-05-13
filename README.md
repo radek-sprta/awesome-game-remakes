@@ -24,6 +24,7 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 - [Carnage3D](https://github.com/codenamecpp/carnage3d) - Reimplementation of Grand Theft Auto.
 - [donut](https://github.com/plowteam/donut) - Reimplementation of The Simpsons: Hit & Run in modern C++ and modern OpenGL.
 - [Heretic2R](https://github.com/m-x-d/Heretic2R) - Heretic II (1998, Raven Software) reverse-engineered source port. 
+- [heretic2](https://github.com/0lvin/heretic2) - Heretic2 playground sandbox.
 - [OpenJK](https://github.com/JACoders/OpenJK) - Community effort to maintain and improve Jedi Academy and Jedi Outcast by Raven Software.
 - [OpenLara](https://github.com/XProger/OpenLara) - Classic Tomb Raider open-source engine.
 - [OpenMB](https://github.com/cookgreen/OpenMB) - Role-playing game engine for Taleworlds' Mount&Blade Series.
