@@ -196,6 +196,7 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 - [Riiablo](https://github.com/collinsmith/riiablo) - Diablo II remade using Java and LibGDX.
 - [sfall](https://github.com/phobos2077/sfall) - A set of engine modifications for the classic game Fallout 2.
 - [Shockolate](https://github.com/Interrupt/systemshock) - Same great System Shock, new great taste.
+- [Thirdeye](https://github.com/psi29a/thirdeye) - Reimplementation of AESOP that runs Eye of the Beholder 3 and Dungeon Hack.
 - [UAlbion](https://github.com/csinkers/ualbion) - Remake of 1995 Albion.
 - [UnderworldGodot](https://github.com/hankmorgan/UnderworldGodot) - An engine recreation of Ultima Underworld and Ultima Underworld 2 in the Godot Engine.
 - [WitchavenGDX](https://gitlab.com/m210/WitchavenGDX) - Witchaven Java port.
