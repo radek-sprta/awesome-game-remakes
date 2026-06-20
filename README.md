@@ -169,14 +169,17 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 - [Ryzom Core](https://github.com/ryzom/ryzomcore) - Ryzom Core contains the whole code (client, server, tools) used to make the commercial MMORPG Ryzom. :flower_playing_cards:
 - [Space Station 14](https://github.com/space-wizards/space-station-14) - Space Station 14 is a revived attempt at a Space Station 13 remake.
 - [VoxeLibre](https://git.minetest.land/VoxeLibre/VoxeLibre) - Stable, moddable & free/libre clone of Minecraft based on the Luanti engine. :flower_playing_cards:
+- [Netrek](https://sourceforge.net/projects/netrek/) - Netrek is a multiplayer battle simulation game with a Star Trek theme. Up to 16 players are divided into two teams that fight each other for dominion over the galaxy.
 
 ## RPG
 - [Abyss Engine](https://github.com/AbyssEngine/AbyssEngine) - Abyss Engine is a game engine designed to run games similar to 2000's style ARPGs such as Diablo II.
 - [Amber](https://github.com/Pyrdacor/Amber) - Engine for the Amber trilogy 
 - [Ambermoon.net](https://github.com/Pyrdacor/Ambermoon.net) - Ambermoon rewrite in C#
+- [Arianne RPG](https://sourceforge.net/projects/arianne/) - Arianne is an engine to develop multiplayer online games like Stendhal
 - [Arx Libertatis](https://github.com/arx/ArxLibertatis) - Cross-platform port of Arx Fatalis, a first-person role-playing game.
 - [Barony](https://github.com/TurningWheel/Barony) - Open source release of Barony.
 - [BtBuilder](https://github.com/dulsi/btbuilder) - An open source implementation of the Bard's Tale Construction Set.
+- [ChaosEsqueAnthology](https://sourceforge.net/projects/chaosesqueanthology/) - A free 3d game for PC that does not limit the player. Fight,Build,Gain
 - [Daggerfall Unity](https://github.com/Interkarma/daggerfall-unity) - Recreation of Daggerfall in the Unity engine.
 - [Devilution](https://github.com/diasurgical/devilution) - Reconstructed form of Diablo's original source code.
 - [DevilutionX](https://github.com/diasurgical/devilutionX) - Diablo build for modern operating systems.
@@ -251,6 +254,7 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 - [Free Stars: The Ur-Quan Masters](https://sc2.sourceforge.net/) - Open source version of the classic Star Control 2.
 - [FS2Open](https://github.com/scp-fs2open/fs2open.github.com) - FreeSpace2 Source Code Project.
 - [Librelancer](https://github.com/Librelancer/Librelancer) - Reimplementation of the 2003 space game Freelancer.
+- [Endless Sky](https://github.com/endless-sky/endless-sky) - Space exploration, trading, and combat game.
 
 ## Strategy
 - [1oom](https://github.com/1oom-fork/1oom) - 1oom is a Master of Orion Classic (1993) game engine recreation that requires the original files to run.
@@ -266,6 +270,7 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 - [CorsixTH](https://github.com/CorsixTH/CorsixTH) - Clone of Theme Hospital with support for modern operating systems, high resolutions and much more.
 - [Cortex Command Community Project Source](https://github.com/cortex-command-community/Cortex-Command-Community-Project-Source) - Community-driven effort to continue the development of Cortex Command.
 - [Dune-II---The-Maker](https://github.com/stefanhendriks/Dune-II---The-Maker) - A remake of the classic Dune 2 - The Building of a Dynasty (by Westwood Studios) with several enhancements. Like: higher screenresolutions, zooming, multiselect, skirmish play, etc.
+- [Dune Legacy](https://sourceforge.net/projects/dunelegacy/) - Updated clone of Westood Studios' Dune2 which uses data files from the original game.
 - [Evolution-RTS](https://github.com/EvolutionRTS/Evolution-RTS) - Evolution RTS is a free an Open Source RTS game designed using the Spring Engine. 
 - [fheroes2](https://github.com/ihhub/fheroes2) - Free implementation of Heroes of Might and Magic II game engine.
 - [Flame](https://github.com/DiaLight/Flame) - Dungeon Keeper II partial recompilation with bug fixes.
@@ -310,9 +315,12 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 - [OutpostHD](https://github.com/OutpostUniverse/OPHD) - Remake of Sierra On-Line's Outpost.
 - [Ozymandias](https://github.com/dalerank/Ozymandias) - An open source re-implementation of Pharaoh in the Julius/Augustus engine.
 - [Race into Space](https://github.com/raceintospace/raceintospace) - Version of Interplay's Buzz Aldrin's Race into Space.
+- [Rescue Max!](https://sourceforge.net/projects/rescue/) - A 2D space real-time, action/strategy game. you are in control of a ship that you fly around space fighting enemies and making friends on your way. The main objective is to rescue people from planets and take them to star bases. its writen in java1.4. 
 - [Return To The Roots](https://github.com/Return-To-The-Roots/s25client) - Settlers II remake written in C++.
 - [Rotp-Fusion](https://github.com/BrokenRegistry/Rotp-Fusion) - Created by Ray Fowler, Remnants of the Precursors is an open-source modernization of the original 1993 Master of Orion.
 - [rise-of-legions](https://github.com/BrokenGamesUG/rise-of-legions) - Rise of Legions is a hybrid of MOBA, tower defense and deckbuilding - with fast-paced, easy-to-pickup tug-of-war strategy. Play solo or bring a friend for co-op or 2v2, collect cards, build your deck and crush your enemies.
+- [Scorched Earth Online War](https://sourceforge.net/projects/seow/) - Online War system for IL-2 Sturmovik and Iron Front in ArmA 2
+- [Seven Kingdoms: Ambition](https://sourceforge.net/projects/seven-kingdoms-ambition/) - An enhanced version of 7K:AA (Seven Kingdoms: Ancient Adversaries).
 - [Shattered Paradise](https://github.com/ABrandau/Shattered-Paradise-SDK) - Remake of C&C Tiberian Sun based on [the OpenRA engine](https://github.com/OpenRA/OpenRA)
 - [simutrans](https://github.com/simutrans/simutrans) - Simutrans is a freeware and open-source transportation simulator. :flower_playing_cards:
 - [singularity](https://github.com/addictgamer/singularity-game-fork) - A simulation of a true AI. Survive, grow, and learn.
@@ -321,7 +329,9 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 - [Sourcehold](https://github.com/sourcehold/Sourcehold) - Implementation of Stronghold by Firefly Studios.
 - [Stone Kingdoms](https://gitlab.com/stone-kingdoms/stone-kingdoms) - A real-time strategy game made with LÖVE based on the original Stronghold by Firefly studios.
 - [thinker](https://github.com/induktio/thinker) - Improved game engine features for SMACX.
+- [Transarctica-2](https://github.com/SembeiNorimaki/Transarctica-2) - Remake of the classic game Transarctica (In development)
 - [triplea](https://github.com/triplea-game/triplea) - TripleA is a turn based strategy game and board game engine, similar to Axis & Allies or Risk.
+- [ufoai](https://github.com/gorsing/ufoai) - UFO:Alien Invasion
 - [Unvanquished](https://github.com/Unvanquished/Unvanquished) - Unvanquished is a free and open source FPS/RTS hybrid game powered by the Daemon game engine. Historically based on Tremulous as a continuation with decades of work over it.
 - [VanillaConquer](https://github.com/TheAssemblyArmada/Vanilla-Conquer/) - Command and Conquer and Red Alert original release source port based on the remaster source code drop.
 - [VCMI](https://github.com/vcmi/vcmi) - Engine for Heroes of Might and Magic III.
