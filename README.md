@@ -256,6 +256,7 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 - [FS2Open](https://github.com/scp-fs2open/fs2open.github.com) - FreeSpace2 Source Code Project.
 - [Librelancer](https://github.com/Librelancer/Librelancer) - Reimplementation of the 2003 space game Freelancer.
 - [Endless Sky](https://github.com/endless-sky/endless-sky) - Space exploration, trading, and combat game.
+- [pizzalegacy](https://codeberg.org/cowomaly/pizzalegacy) - Pizza Legacy is an open-source reimplementation of the 1994 DOS game Pizza Tycoon (released as Pizza Connection in Germany).
 
 ## Strategy
 - [aeon](https://github.com/lordbasilaiassistant-sudo/aeon) - Open-source browser god-game & civilization sim where every creature is a real, evolving neural network. Fusion of WorldBox (god sandbox) and Civ (deep progression) - lead a people in Survival or shape the world in Creative. Artificial life, genetic evolution, emergent societies.
