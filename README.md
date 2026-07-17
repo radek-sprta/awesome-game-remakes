@@ -28,6 +28,7 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 - [OpenJK](https://github.com/JACoders/OpenJK) - Community effort to maintain and improve Jedi Academy and Jedi Outcast by Raven Software.
 - [Speed-Academy](https://github.com/kugelrund/Speed-Academy) - Source port of the singleplayer of Star Wars Jedi Knight: Jedi Academy.
 - [Speed-Outcast](https://github.com/kugelrund/Speed-Outcast) - Source port of the singleplayer of Star Wars Jedi Knight II: Jedi Outcast.
+- [OpenChaos](https://github.com/lndpj/OpenChaos) - OpenChaos — Fan Modernization of Urban Chaos
 - [OpenLara](https://github.com/XProger/OpenLara) - Classic Tomb Raider open-source engine.
 - [OpenMB](https://github.com/cookgreen/OpenMB) - Role-playing game engine for Taleworlds' Mount&Blade Series.
 - [OpenRW](https://openrw.org/) - A cross-platform, open source re-implementation of Rockstar Games' Grand Theft Auto III.
