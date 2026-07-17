@@ -60,6 +60,7 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 - [guardian](https://github.com/LaughingInPurgatory/guardian) - A modern, endless remake of the classic arcade game Defender
 - [GradiusRemake](https://github.com/luisfae/GradiusRemake) - Remake of the game Gradius (NES - 1986)
 - [Maze-Runner-FPS](https://github.com/IbsYoussef/Maze-Runner-FPS) - Remake of classic Maze Runner game from the 70s -- written in Rust
+- [Metal-Slug-Remake](https://github.com/ahmadraza2730/Metal-Slug-Remake) - A Metal Slug-inspired 2D action game built in C++ with SFML — featuring enemy AI, procedural terrain via Perlin noise, and a full weapon/damage system. OOP course project (CS-1004). 
 - [Mr.Boom](https://github.com/Javanaise/mrboom-libretro) - 8-player Bomberman clone for RetroArch/Libretro.
 - [O21](https://github.com/ForNeVeR/O21) - FOSS remake of U95, an old submarine arcade game from 1995.
 - [OrbitalDecay](https://github.com/LeineckerGames/OrbitalDecay) - This is a 3D remake of the old Lunar Lander game
