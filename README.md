@@ -6,6 +6,8 @@ Most games require original asssets. The ones not requiring paid assets are mark
 
 If you are also interested in clones and similar games (0 A.D. etc.), take a look at [Open Source Game Clones](https://osgameclones.com/).
 
+If you are looking for game archive file formats see: [Awesome Game File Format Reversing](https://github.com/VelocityRa/awesome-game-file-format-reversing/)
+
 ---
 
 ## Contents
