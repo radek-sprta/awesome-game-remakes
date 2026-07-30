@@ -356,6 +356,11 @@ If you are looking for not only remakes have a look at:
 - [Ozymandias](https://github.com/dalerank/Ozymandias) - An open source re-implementation of Pharaoh in the Julius/Augustus engine.
 - [parabellum](https://github.com/andreapavoni/parabellum) - An attempt to build a #Travian 3.x clone written in #Rust.
 - [permafrost-engine](https://github.com/eduard-permyakov/permafrost-engine) - An OpenGL RTS game engine written in C based on Everglory
+- [Populous: Reincarnated](https://www.popre.net/) - Populous Reincarnated
+- [Populous The Beginning](https://github.com/TylerTheFox/Populous-The-Beginning-Public) - Open Repository For A Bullfrog Productions Game
+- [PopRE Bug Tracker](https://www.populous3.info/bugs/my_view_page.php) - Populous The Beginning Reincarnated Open Source Bug Tracker
+- [Populous The Beginning - Multiverse](https://thebeginning.uk/multiverse/) - Populouse Multiverse Launcher
+- [PopResourceEditor](https://github.com/Toksisitee/PopResourceEditor) - Open-source asset editor and manager written in C++ for Bullfrog's Populous: The Beginning game, designed to preview, modify, and generate the game assets.
 - [rebellion2](https://github.com/davidadas/rebellion2) - Remake of the classic Star Wars Rebellion game for PC using Unity
 - [Pillage-First-Ask-Questions-Later](https://github.com/jurerotar/Pillage-First-Ask-Questions-Later) - An open-source, single-player, Travian alternative browser strategy game, inspired by [Travian T4](https://ts4.x1.europe.travian.com/) and [Travian Kingdoms](https://www.kingdoms.com/)
 - [Race into Space](https://github.com/raceintospace/raceintospace) - Version of Interplay's Buzz Aldrin's Race into Space.
