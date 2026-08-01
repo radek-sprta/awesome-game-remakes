@@ -300,6 +300,8 @@ If you are looking for not only remakes have a look at:
 - [durer-jatekok](https://github.com/a-gondolkodas-orome/durer-jatekok) - Online version of previous strategy games at Dürer Competition
 - [Dune-II---The-Maker](https://github.com/stefanhendriks/Dune-II---The-Maker) - A remake of the classic Dune 2 - The Building of a Dynasty (by Westwood Studios) with several enhancements. Like: higher screenresolutions, zooming, multiselect, skirmish play, etc.
 - [Dune Legacy](https://sourceforge.net/projects/dunelegacy/) - Updated clone of Westood Studios' Dune2 which uses data files from the original game.
+- [DungeonKeeper](https://github.com/Kamikitte/DungeonKeeper) - Dungeon Keeper C#
+- [DungeonKeeperReborn](https://github.com/joko1977-ui/DungeonKeeperReborn) - Dungeon Keeper Reborn in TypeScript
 - [Dungeon Keeper Remake](https://github.com/Themperror/Dungeon-Keeper-Remake) - A modern remake of Dungeon Keeper
 - [Evolution-RTS](https://github.com/EvolutionRTS/Evolution-RTS) - Evolution RTS is a free an Open Source RTS game designed using the Spring Engine. 
 - [fheroes2](https://github.com/ihhub/fheroes2) - Free implementation of Heroes of Might and Magic II game engine.
@@ -321,6 +323,7 @@ If you are looking for not only remakes have a look at:
 - [Julius](https://github.com/bvschaik/julius) - Reimplementation of Caesar III.
 - [KaM Remake](https://github.com/Kromster80/kam_remake) - RTS game remake of Knights and Merchants written in Delphi from scratch.
 - [KeeperFX](https://github.com/dkfans/keeperfx) - Open source remake and Fan Expansion of Dungeon Keeper.
+- [keeperfx-linux-alpha](https://github.com/ForkedInTime/keeperfx-linux-alpha) - KeeperFX — Tux Edition · the native Linux build of KeeperFX (Dungeon Keeper). No Wine/Proton/DOSBox — one AppImage. Unofficial, community-maintained, re-synced with upstream.
 - [KeeperRL](https://github.com/miki151/keeperrl) - Roguelike dungeon builder inspired by Dwarf Fortress.
 - [kiomet](https://github.com/SoftbearStudios/kiomet) - Kiomet.com real-time strategy game (repository commits may lag behind game updates)
 - [machines](https://github.com/WiredForWar/machines) - Community fork of Machines: Wired for War
