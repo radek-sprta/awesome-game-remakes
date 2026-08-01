@@ -333,6 +333,7 @@ If you are looking for not only remakes have a look at:
 - [OpenE2140](https://github.com/OpenE2140/OpenE2140) - Remake of Earth 2140 based on [the OpenRA engine](https://github.com/OpenRA/OpenRA)
 - [OpenDUNE](https://github.com/OpenDUNE/OpenDUNE) - Recreation of the popular game Dune II.
 - [Open Fodder](https://github.com/OpenFodder/openfodder) - Open-source implementation of Cannon Fodder.
+- [OpenKeeper](https://github.com/tonihele/OpenKeeper) - Dungeon Keeper II remake in Java.
 - [OPHD](https://github.com/OutpostUniverse/OPHD) - OutpostHD - Open source remake of Sierra On-Line's Outpost.
 - [OpenHV](https://github.com/OpenHV/OpenHV) - Open-source implementation of Hard Vacuum. :flower_playing_cards:
 - [OpenKrush](https://github.com/IceReaper/OpenKrush) - Remake of KKnD (Krush, Kill 'n' Destroy) and KKnD2 based on [the OpenRA engine](https://github.com/OpenRA/OpenRA)
