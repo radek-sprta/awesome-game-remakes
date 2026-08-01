@@ -300,6 +300,7 @@ If you are looking for not only remakes have a look at:
 - [durer-jatekok](https://github.com/a-gondolkodas-orome/durer-jatekok) - Online version of previous strategy games at Dürer Competition
 - [Dune-II---The-Maker](https://github.com/stefanhendriks/Dune-II---The-Maker) - A remake of the classic Dune 2 - The Building of a Dynasty (by Westwood Studios) with several enhancements. Like: higher screenresolutions, zooming, multiselect, skirmish play, etc.
 - [Dune Legacy](https://sourceforge.net/projects/dunelegacy/) - Updated clone of Westood Studios' Dune2 which uses data files from the original game.
+- [Dungeon Keeper Remake](https://github.com/Themperror/Dungeon-Keeper-Remake) - A modern remake of Dungeon Keeper
 - [Evolution-RTS](https://github.com/EvolutionRTS/Evolution-RTS) - Evolution RTS is a free an Open Source RTS game designed using the Spring Engine. 
 - [fheroes2](https://github.com/ihhub/fheroes2) - Free implementation of Heroes of Might and Magic II game engine.
 - [EmperorReborn](https://github.com/azmawee/EmperorReborn) - Play Emperor: Battle for Dune on Windows 10 and 11 with real 16:9 widescreen, fullscreen and working multiplayer. Free, open-source launcher and patcher for the Westwood Dune RTS.
