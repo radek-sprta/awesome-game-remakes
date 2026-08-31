@@ -212,6 +212,7 @@ If you are looking for not only remakes have a look at:
 - [Freeablo](https://github.com/wheybags/freeablo) - Open-source implementation of the Diablo engine.
 - [FreeFT](https://github.com/nadult/FreeFT) - Real-time, isometric action game engine inspired by Fallout Tactics.
 - [GemRB](https://github.com/gemrb/gemrb) - Portable open-source reimplementation of the Infinity Engine (used by Baldur's Gate, Icewind Dale and more).
+- [jminequest](https://codeberg.org/glowiak/jminequest)) - A Java reimplementation of the 2014 mobile game Mine Quest by Tapps Tecnologia da Informacao Ltda
 - [OpenEnroth](https://github.com/OpenEnroth/OpenEnroth) - Might and Magic VI-VIII engine remake using original data & code.
 - [OpenGothic](https://github.com/Try/OpenGothic) - Reimplementation of Gothic 2: Night of the Raven.
 - [OpenMW](https://github.com/OpenMW/openmw) - Reimplementation of the Morrowind game engine.
