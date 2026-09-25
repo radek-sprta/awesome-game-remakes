@@ -407,4 +407,5 @@ If you are looking for not only remakes have a look at:
 - [Warzone 2100](https://github.com/Warzone2100/warzone2100) - Free and open-source real time strategy game. :flower_playing_cards:
 - [WazzaP's Boss Generals Mod](https://github.com/ItsWazzaP/wazzaps-boss-generals) - The official repository of WazzaP's Boss Generals mod for C&C Generals Zero Hour
 - [Zed Online](https://sourceforge.net/projects/zedonline/) - Remake of the 1996 classic game Z.
+- [Zero Hour Reforged](https://github.com/olcayseygan/CnCGeneralsZH-Reforged) - Command & Conquer: Generals - Zero Hour source port: 64-bit, Direct3D 11, VS2022/CMake, original bugs fixed and a skirmish AI that builds a base. Uses the data files from a retail copy.
 - [Zero-K](https://github.com/ZeroK-RTS/Zero-K) - Open source RTS game running on the Spring/Recoil engine
