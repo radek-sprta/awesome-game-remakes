@@ -27,10 +27,20 @@ If you are looking for not only remakes have a look at:
 - [Strategy](#strategy)
 
 ## Action
+- [Airborn Ranger](https://github.com/xor2003/airborn-ranger) - Recomp of Airborn Ranger by MicroProse.
+- [BloodBorne for Windows](https://github.com/Supermedo/bloodborne_pc) - Recomp of BloodBorne (PS4) to Windows.
 - [Carnage3D](https://github.com/codenamecpp/carnage3d) - Reimplementation of Grand Theft Auto.
+- [CTW-Native](https://github.com/official-kryo-to/ctw-native) - Recomp of GTA: Chinatown Wars from Android to Windows.
 - [donut](https://github.com/plowteam/donut) - Reimplementation of The Simpsons: Hit & Run in modern C++ and modern OpenGL.
+- [DPRecomp](https://github.com/LittleBitUA/DPRecomp) = Recomp of Deadly Premonition from Xbox 360.
 - [Heretic2R](https://github.com/m-x-d/Heretic2R) - Heretic II (1998, Raven Software) reverse-engineered source port. 
 - [heretic2](https://github.com/0lvin/heretic2) - Heretic2 playground sandbox.
+- [Herculan](https://github.com/kevinfoley/Herculan) - Recomp of Earthsiege 2 by Dynamix.
+- [Ico-PC](https://github.com/nathanialf/ico-pc) - Recomp of ICO (PS2) to PC.
+- [LCS Recomp](https://github.com/elmasas/lcs-recomp) - Recomp of the PSP game GTA: Liberty City Stories to PC.
+- [MeleePC](https://github.com/999sian/melee-pc) - Recomp of Super Smash Bros Melee to PC.
+- [Metal Mutant-web](https://github.com/kznsq/metal-mutant-web) - Recomp of the Silmarils game Metal Mutant to Javascript.
+- [Metroid Prime Port](https://github.com/Odrannnn/MetroidPrimePort) - Recomp of Metroid Prime to PC and Android.
 - [OpenJK](https://github.com/JACoders/OpenJK) - Community effort to maintain and improve Jedi Academy and Jedi Outcast by Raven Software.
 - [Speed-Academy](https://github.com/kugelrund/Speed-Academy) - Source port of the singleplayer of Star Wars Jedi Knight: Jedi Academy.
 - [Speed-Outcast](https://github.com/kugelrund/Speed-Outcast) - Source port of the singleplayer of Star Wars Jedi Knight II: Jedi Outcast.
@@ -38,12 +48,17 @@ If you are looking for not only remakes have a look at:
 - [OpenLara](https://github.com/XProger/OpenLara) - Classic Tomb Raider open-source engine.
 - [OpenMB](https://github.com/cookgreen/OpenMB) - Role-playing game engine for Taleworlds' Mount&Blade Series.
 - [OpenRW](https://openrw.org/) - A cross-platform, open source re-implementation of Rockstar Games' Grand Theft Auto III.
+- [OpenSpideyPS1](https://github.com/GTTeancum/SpideyPS1recomp) - Recomp of Spider-Man PS1 and Spider-Man 2: Enter Electro to PC.
+- [Parasite Eve HD Remaster](https://github.com/faligame/Parasite-Eve-HD-Remaster) - Recomp and enhancement of the PS1 game Parasite Eve.
 - [remc2](https://github.com/turican0/remc2) - Reverse engineering of Magic Carpet 2 from Assembler.
 - [Rigel Engine](https://github.com/lethal-guitar/RigelEngine) - Modern reimplementation of the classic DOS game Duke Nukem II in C++.
 - [San Andreas Unity](https://github.com/GTA-ASM/SanAndreasUnity) - Reimplementation of GTA: San Andreas game engine in Unity.
+- [Edge Of Time Recomp](https://github.com/goliathret/EdgeOfTimeRecomp) - Recomp of Spider Man: Edge of Time from Xbox 360.
 - [Sunny-Survival-Remake-Code](https://github.com/Kynwi/Sunny-Survival-Remake-Code) - Code for my game called "Sunny Survival Remake"
 - [TOMB5](https://github.com/TOMB5/TOMB5) - Tomb Raider: Chronicles disassembly translated to C source code.
 - [TR1X](https://github.com/LostArtefacts/TR1X) - Open source implementation of the classic Tomb Raider I game.
+- [ZeldaWWHDRecomp](https://github.com/ZeldaWWHDRecomp/ZeldaWWHDRecomp) - Recomp of Zelda: The Wind Waker HD to PC and Android.
+- [X-Men Mutant Academy 2](https://github.com/GTTeancum/xmen-mutant-academy-2-pc) - Recomp of the PS1 game X-Men Mutant Academy 2.
 
 ## Adventure
 - [DetectiveDS](https://github.com/RustyPixelsUK/DetectiveDS) - A remake of the original C64 classic The Detective Game for Nintendo DS.
@@ -99,6 +114,7 @@ If you are looking for not only remakes have a look at:
 - [Chocolate Quake](https://github.com/Henrique194/chocolate-quake) - A purist Quake source port that restores the original look and feel of v1.09 and earlier.
 - [ClassiCube](https://github.com/ClassiCube/ClassiCube) - Minecraft Classic compatible client written in C from scratch. :flower_playing_cards:
 - [Crispy Doom](https://github.com/fabiangreffrath/crispy-doom) - A limit-removing enhanced-resolution Doom source port based on Chocolate Doom.
+- [CyberMage Modern](https://github.com/RoninSan369/CyberMageModern) - Recomp of the DOS game CyberMage.
 - [dhewm3](https://github.com/dhewm/dhewm3) - A source port of Doom 3.
 - [DOOM64-EX-Plus-Enhanced](https://github.com/Styd051/DOOM64-EX-Plus-Enhanced) - fork of the Doom 64 EX+ engine, Its main goal is to show what the Doom 64 engine would have looked like if it hadn't been limited by the N64 console.
 - [DOOM64EXUltra](https://github.com/StevenSYS/DOOM64EXUltra) - A fork of DOOM 64 EX+ with new stuff and fixes
@@ -119,6 +135,7 @@ If you are looking for not only remakes have a look at:
 - [FTEQW](https://fte.triptohell.info/) - FPS Engine for Quake 1, QuakeWorld, Quake 2, Hexen II & Quake III Arena.
 - [ew-progs](https://code.idtech.space/two-guys/ew-progs) - Eternal War: Shadows of Light's progs source code.
 - [ew-engine](https://code.idtech.space/two-guys/ew-engine) - Eternal War: Shadows of Light's engine source code.
+- [GoldenEye PC Port](https://github.com/jkdansereau/goldeneye-pc-port) - Recomp of GoldenEye 007 (N64).
 - [heavymetal](https://github.com/sp00nznet/heavymetal) - A static recompilation of Heavy Metal: FAKK2 (2000) targeting modern Windows 11 x86-64.
 - [Hexen II: Hammer of Thyrion](https://sourceforge.net/p/uhexen2/code/HEAD/tree/) - Cross-platform port of the Hexen II game.
 - [idTech4A++ (Harmattan Edition)](https://github.com/glKarin/com.n0n3m4.diii4a) - DOOM III/Quake 4/Prey(2006) GLES on Android/Windows/Linux, DOOM 3 BFG/The Dark Mod/RTCW/Quake 1 2 3/GZDOOM/ETW/RealRTCW/OpenJK/SeriousSam/Skin Deep on Android.
@@ -139,11 +156,13 @@ If you are looking for not only remakes have a look at:
 - [OmegA-engine](https://github.com/Bishop-333/OmegA-engine) - Modern OpenArena engine based on Quake3e
 - [OmegA-mod](https://github.com/Bishop-333/OmegA-mod) - OmegA mod for OpenArena
 - [OpenChasm](https://github.com/alexey-lysiuk/OpenChasm) - Free software reconstruction of Chasm: The Rift game.
+- [OpenCE](https://github.com/OpenCommunityEdition/OpenCE) - Enhanced recomp of the original Xbox Halo: Combat Evolved to all Windows, Linux and Android.
 - [Odamex](https://github.com/odamex/odamex) - Online multiplayer DOOM port with a strong focus on the original gameplay while providing a breadth of enhancements. :flower_playing_cards:
 - [OpenMoHAA](https://github.com/openmoh/openmohaa) - Open re-implementation of Medal of Honor: Allied Assault including Spearhead and Breakthrough expansions.
 - [openQ4](https://github.com/themuffinator/openQ4) - The modern binary replacement for QUAKE 4.
 - [openQ4-game](https://github.com/themuffinator/openQ4-game) - openQ4 game libraries
 - [OpenSpades](https://github.com/yvt/openspades) - Compatible client of Ace of Spades, a voxel FPS.
+- [Perfect Dark](https://github.com/DabDavis/perfect-dark-dabs-mod) - Recomp of the N64 game Perfect Dark to PC, with enhancements.
 - [qk1](https://git.sr.ht/~ft/qk1) - Modernized Quake for Unix-like operating systems and 9front.
 - [qk1](https://github.com/qwx9/qk1) - quake 1 and quakeworld port for plan9.
 - [q2tools-220](https://github.com/qbism/q2tools-220) - Quake 2 map compiler tools with v220 map support, automatic phong, enhancements, and fixes. 
@@ -200,6 +219,7 @@ If you are looking for not only remakes have a look at:
 - [Ambermoon.net](https://github.com/Pyrdacor/Ambermoon.net) - Ambermoon rewrite in C#
 - [Arianne RPG](https://sourceforge.net/projects/arianne/) - Arianne is an engine to develop multiplayer online games like Stendhal
 - [Arx Libertatis](https://github.com/arx/ArxLibertatis) - Cross-platform port of Arx Fatalis, a first-person role-playing game.
+- [Bak-Again](https://github.com/stellargames/bakagain) - Recomp + enhancement of Betrayal At Krondor by Dynamix.
 - [Barony](https://github.com/TurningWheel/Barony) - Open source release of Barony.
 - [BtBuilder](https://github.com/dulsi/btbuilder) - An open source implementation of the Bard's Tale Construction Set.
 - [castarook](https://github.com/SamoraCletus/castarook) - Experience 3D chess with RPG combat, dynamic terrain, and dice-driven battles blending strategy and role-playing elements in a living game world.
@@ -213,6 +233,7 @@ If you are looking for not only remakes have a look at:
 - [Freeablo](https://github.com/wheybags/freeablo) - Open-source implementation of the Diablo engine.
 - [FreeFT](https://github.com/nadult/FreeFT) - Real-time, isometric action game engine inspired by Fallout Tactics.
 - [GemRB](https://github.com/gemrb/gemrb) - Portable open-source reimplementation of the Infinity Engine (used by Baldur's Gate, Icewind Dale and more).
+- [Goldbox Companion](https://github.com/gschmidl/goldbox-staging) - Companion tools for Eye of the Beholder 1-3, Goldbox games, Ultima V combined and ported to work on DOSBox Staging via its html browser feature.
 - [jminequest](https://codeberg.org/glowiak/jminequest)) - A Java reimplementation of the 2014 mobile game Mine Quest by Tapps Tecnologia da Informacao Ltda
 - [OpenEnroth](https://github.com/OpenEnroth/OpenEnroth) - Might and Magic VI-VIII engine remake using original data & code.
 - [OpenGothic](https://github.com/Try/OpenGothic) - Reimplementation of Gothic 2: Night of the Raven.
@@ -226,7 +247,11 @@ If you are looking for not only remakes have a look at:
 - [Shockolate](https://github.com/Interrupt/systemshock) - Same great System Shock, new great taste.
 - [Thirdeye](https://github.com/psi29a/thirdeye) - Reimplementation of AESOP that runs Eye of the Beholder 3 and Dungeon Hack.
 - [UAlbion](https://github.com/csinkers/ualbion) - Remake of 1995 Albion.
+- [Ultima 7 Decomp](https://github.com/Kitrinx/Ultima7_Decomp) - Recomp of Ultima 7. Bit exact to original.
+- [Underworld Exhumed](https://github.com/abedegno/underworld-exhumed) - Bit-exact recomp of Ultima Underworld I and II.
 - [UnderworldGodot](https://github.com/hankmorgan/UnderworldGodot) - An engine recreation of Ultima Underworld and Ultima Underworld 2 in the Godot Engine.
+- [Underworld Revisited](https://github.com/PQMarine/UnderworldRevisited) - Ultima Underworld ported to Unity, faithful to the original with optional enhancements.
+- [Unity Underground](https://github.com/Kweepa/OpenUnderground/) - Modern update of Ultima Underworld. Optional new models and look.
 - [WitchavenGDX](https://gitlab.com/m210/WitchavenGDX) - Witchaven Java port.
 - [xoreos](https://github.com/xoreos/xoreos) - Implementation of BioWare's Aurora engine and its derivatives (used by Neverwinter Nights, The Witcher and more).
 - [Zelda3](https://github.com/snesrev/zelda3) - This is a reverse engineered clone of Zelda 3 - A Link to the Past.
@@ -246,6 +271,7 @@ If you are looking for not only remakes have a look at:
 - [Prince-Monogame](https://github.com/salvadorc17/Prince-Monogame) - Monogame implementation of Prince of Persia 2.
 - [SDLPoP](https://github.com/NagyD/SDLPoP) - Port of Prince of Persia, based on the disassembly of the DOS version.
 - [sm64js](https://github.com/sm64jsarchive/sm64jsarchive) - Super Mario 64 reimplementation in JavaScript.
+- [SMS Launcher](https://github.com/chasem-dev/sms-launcher) - Recomp of Super Mario Sunshine.
 - [The Secret Chronicles of Dr. M](https://github.com/secretchronicles/TSC) - Adaptation of Secret Mario Chronicles. :flower_playing_cards:
 - [UnleashedRecomp](https://github.com/hedge-dev/UnleashedRecomp) - An unofficial PC port of the Xbox 360 version of Sonic Unleashed created through the process of static recompilation.
 - [VVVVV](https://github.com/TerryCavanagh/vvvvvv) - The source code to VVVVVV.
@@ -257,10 +283,14 @@ If you are looking for not only remakes have a look at:
 - [dethrace](https://github.com/dethrace-labs/dethrace) - Reverse engineering the 1997 game "Carmageddon"
 - [hi-octane202x](https://github.com/woalexan/hi-octane202x) - Hi-Octane with level editor using Irrlicht engine.
 - [HiOctaneTools](https://github.com/movAX13h/HiOctaneTools) - Tools to inspect and modify levels of the game Hi-Octane by Bullfrog (1995).
+- [Interstate 82 Widescreen Fix](https://github.com/SputnikKaputtnik/interstate82-widescreen-4k-fix) - Critical fixes to the game Interstate 82.
 - [Open76](https://github.com/rob518183/Open76) - Interstate '76 engine reimplementation
 - [OpenNFS](https://github.com/OpenNFS/OpenNFS) - Attempt to recreate the classic Need for Speed Games (1-6).
+- [PlayStunts](https://github.com/ACatWithEbola/playstunts) - Recomp of Stunts to TypeScript, playable online.
 - [OutRun](https://github.com/ZgzInfinity/OutRun) - A new version of the game Out Run of 1986 for PC using SFML and C++
 - [Quarantine](https://github.com/mattseabrook/Quarantine) - Game Engine re-creation of Quarantine by Imagexcel
+- [re-stunts](https://github.com/CommonLoon102/restunts-bb11) - Recomp of the game Stunts. Original and enhanced versions.
+- [Roller](https://github.com/FatalDecomp/ROLLER) - Recomp of the game Whiplash/Fatal Racing. Adds enhancements. Playable on PC or online.
 - [Scale Miniatures](https://github.com/hivvu/scale-miniatures) - Open source recomp of Micro Machines in TypeScript.
 - [Street Rod](https://github.com/kylofon/street-rod-sdl3) - Recomp of Street Rod.
 - [Street Rod Enhanced](https://github.com/kylofon/streetrod-enhanced) - Enhanced version of Street Rod.
@@ -274,6 +304,7 @@ If you are looking for not only remakes have a look at:
 - [SpagettiKart](https://github.com/HarbourMasters/SpaghettiKart) - Reimplementation of Mario Kart 64 for PC.
 - [Vangers](https://github.com/KranX/Vangers) - Racing/RPG hybrid made open-source by its creators, written in C++.
 - [Vange-rs](https://github.com/kvark/vange-rs) - The idea of this project is to replicate the old look and behavior of Vangers, but with native hardware acceleration for the graphics.
+- [Vette](https://github.com/PlasticCog/Vette2026) - Recomp of the game Vette by Spectrum Holobyte.
 - [wipEout Rewrite](https://github.com/phoboslab/wipeout-rewrite) - This is a re-implementation of the 1995 PSX game wipEout. :flower_playing_cards:
 - [retruxx](https://github.com/mindflower/retruxx) - Reverse engineered Hard Truck Apocalypse.
 
@@ -306,8 +337,9 @@ If you are looking for not only remakes have a look at:
 - [OpenXW](https://github.com/elyosh/OpenXW) - Open-source recomp of X-Wing.
 - [OpenXWA](https://github.com/elyosh/Openxwa) - Open-source recomp of X-Wing Alliance.
 - [stunts](https://github.com/ACatWithEbola/playstunts) - Open-source recomp of Stunts. Playable on the website.
-- [wc1-re](https://github.com/neuromancer/wc1-re) - Open-source recomp of Wing Commander.
+- [wc1-re](https://github.com/neuromancer/wc1-re) - Open-source recomp of Wing Commander I.
 - [wc2-re](https://github.com/neuromancer/wc2-re) - Open-source recomp of Wing Commander II.
+- [Wing Commander 1 Reloaded](https://wingcomreloaded.itch.io/wingcommander1reloaded) - Modern recreation of Wing Commander I.
 
 ## Strategy
 - [aeon](https://github.com/lordbasilaiassistant-sudo/aeon) - Open-source browser god-game & civilization sim where every creature is a real, evolving neural network. Fusion of WorldBox (god sandbox) and Civ (deep progression) - lead a people in Survival or shape the world in Creative. Artificial life, genetic evolution, emergent societies.
@@ -355,10 +387,12 @@ If you are looking for not only remakes have a look at:
 - [KeeperRL](https://github.com/miki151/keeperrl) - Roguelike dungeon builder inspired by Dwarf Fortress.
 - [kiomet](https://github.com/SoftbearStudios/kiomet) - Kiomet.com real-time strategy game (repository commits may lag behind game updates)
 - [machines](https://github.com/WiredForWar/machines) - Community fork of Machines: Wired for War
+- [Mad TV online](https://madtvgame-tribute.com) - Recomp and enhancement/fixes to the German DOS game Mad TV. No github available yet, but playable online. Mad TV is a unique game that was quite buggy, and this recomp includes many fixes.
 - [maxr](https://github.com/maxr-dot-org/maxr) - A turn based strategy game.
 - [mc2](https://github.com/alariq/mc2) - Mech Commander 2 open source engine + OpenGL Linux port.
 - [MegaGlest](https://github.com/MegaGlest/megaglest-source) - MegaGlest real-time strategy game engine (cross-platform, 3-d).
 - [Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS written in Java
+- [Open Annihilation](https://github.com/open-annihilation/open-annihilation) - Recomp of Total Annihilation and Total Annihilation: Kingdoms (RTS).
 - [openage](https://github.com/SFTtech/openage) - Clone of the Age of Empires II engine.
 - [OpenApocalypse](https://github.com/OpenApoc/OpenApoc) - Rebuild of the X-COM: Apocalypse engine.
 - [openblack](https://github.com/openblack/openblack) - Reimplementation of Black & White.
@@ -382,7 +416,7 @@ If you are looking for not only remakes have a look at:
 - [OpenSA](https://github.com/Dzierzan/OpenSA) - Remake of Swarm Assault based on [the OpenRA engine](https://github.com/OpenRA/OpenRA)
 - [OpenSAGE](https://github.com/OpenSAGE/OpenSAGE) - C# reimplementation of SAGE, the game engine used by a bunch of EA Pacific games, including Command & Conquer: Generals and Battle for Middle Earth.
 - [opensage-adk](https://github.com/luann8331/opensage-adk) - Build AI agents with self-made tools, hierarchical memory, and sandboxed execution for software engineering tasks
-- [OpenSC2K](https://github.com/nicholas-ochoa/OpenSC2K) - Remake of SimCity 2000 by Maxis.
+- [OpenSC2K](https://github.com/nicholas-ochoa/OpenSC2K) - Remake of SimCity 2000 by Maxis in Godot engine.
 - [OpenTPW](https://github.com/OpenTPW/OpenTPW) - An open-source re-implementation of Bullfrog's Sim Theme Park / Theme Park World (1999).
 - [OpenTTD](https://github.com/OpenTTD/OpenTTD) - OpenTTD is a transport simulation game based upon the popular game Transport Tycoon Deluxe, written by Chris Sawyer. :flower_playing_cards:
 - [OpenXcom](https://github.com/SupSuper/OpenXcom) - Clone of UFO: Enemy Unknown and X-COM: Terror From the Deep.
@@ -397,6 +431,7 @@ If you are looking for not only remakes have a look at:
 - [PopResourceEditor](https://github.com/Toksisitee/PopResourceEditor) - Open-source asset editor and manager written in C++ for Bullfrog's Populous: The Beginning game, designed to preview, modify, and generate the game assets.
 - [rebellion2](https://github.com/davidadas/rebellion2) - Remake of the classic Star Wars Rebellion game for PC using Unity
 - [Pillage-First-Ask-Questions-Later](https://github.com/jurerotar/Pillage-First-Ask-Questions-Later) - An open-source, single-player, Travian alternative browser strategy game, inspired by [Travian T4](https://ts4.x1.europe.travian.com/) and [Travian Kingdoms](https://www.kingdoms.com/)
+- [Project Wormhole](https://gitlab.com/znixian/xftl) - Rebuild of FTL (Subset Games). Ported to Android in [Pocket Wormhole](https://github.com/adamkulik/pocket-wormhole).
 - [Race into Space](https://github.com/raceintospace/raceintospace) - Version of Interplay's Buzz Aldrin's Race into Space.
 - [Rescue Max!](https://sourceforge.net/projects/rescue/) - A 2D space real-time, action/strategy game. you are in control of a ship that you fly around space fighting enemies and making friends on your way. The main objective is to rescue people from planets and take them to star bases. its writen in java1.4. 
 - [Return To The Roots](https://github.com/Return-To-The-Roots/s25client) - Settlers II remake written in C++.
