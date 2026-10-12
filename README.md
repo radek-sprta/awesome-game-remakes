@@ -91,7 +91,7 @@ If you are looking for not only remakes have a look at:
 - [C-Dogs SDL](https://github.com/cxong/cdogs-sdl) - Classic overhead run-and-gun game. :flower_playing_cards:
 - [Crimsonland](https://github.com/banteg/crimson) - Faithful from-scratch rewrite of the twin-stick shooter Crimsonland.
 - [FsHockey](https://github.com/Thorium/FsHockey) - Retro ice hockey game in F# inspired by The Solar Hockey League (DOS); WinForms, MonoGame and browser versions. :flower_playing_cards:
-- [FsRocket](https://github.com/Thorium/FsRocket) - 1-4 player split-screen cave-flyer in F# in the TurboRaketti/AUTS tradition. :flower_playing_cards:
+- [FsRocket](https://github.com/Thorium/FsRocket) - 1-4 player split-screen cave-flyer in F# modelled on AUTS (1995), with an AUTS level reader. :flower_playing_cards:
 - [galaxy-eggbert](https://github.com/openeggbert/galaxy-eggbert) - 3D remake of Speedy Blupi / Mobile Eggbert, moving from Urho3D toward a native CNA + Easy3D engine.
 - [guardian](https://github.com/LaughingInPurgatory/guardian) - A modern, endless remake of the classic arcade game Defender
 - [GradiusRemake](https://github.com/luisfae/GradiusRemake) - Remake of the game Gradius (NES - 1986)
