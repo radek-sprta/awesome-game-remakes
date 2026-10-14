@@ -120,6 +120,7 @@ If you are looking for not only remakes have a look at:
 - [BetterSpades](https://github.com/xtreme8000/BetterSpades/) - Ace Of Spades open source implementation that runs on older machines.
 - [Barrett](https://github.com/lunarmeadow/barrett/) - Advanced and featureful Rise of the Triad source port for modern systems.
 - [BStone](https://github.com/bibendovsky/bstone) - A source port of Blake Stone: Aliens Of Gold and Blake Stone: Planet Strike.
+- [Can It Run Minecraft](https://github.com/pragyaangaur/Can-It-Run-Minecraft) - Minecraft's first version (rd-132211) rebuilt as one freestanding C file that runs in a terminal, in a browser, inside a PDF and on a bare 486 PC. :flower_playing_cards:
 - [CatacombGL](https://github.com/ArnoAnsems/CatacombGL) - Windows source port of Catacomb 3D and the Catacomb Adventure series.
 - [Chasm-Reverse](https://github.com/Panzerschrek/Chasm-Reverse) - "PanzerChasm" is a free recreation of the game "Chash: - The Rift" by "ActionForms" using the original game data (CSM.BIN file).
 - [Chocolate Doom](https://github.com/chocolate-doom/chocolate-doom) - Source port that is minimalist, historically accurate and includes ports of Heretic and Hexen, and Strife. :flower_playing_cards:
