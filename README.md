@@ -242,6 +242,7 @@ If you are looking for not only remakes have a look at:
 - [DevilutionX](https://github.com/diasurgical/devilutionX) - Diablo build for modern operating systems.
 - [DGEngine](https://github.com/dgengin/DGEngine) - Implementation of the Diablo game engine.
 - [DQ8 Recompiled](https://github.com/Sinan-Karakaya/DQ8-Recompiled) - Recomp of Dragon's Quest 8 (PS2) to PC.
+- [Dragon Ball Z: Super Saiya Densetsu](https://github.com/JackRushante/DBZ-Super-Saiya-Densetsu-Rust) - Rust rewrite and static recomp of the SNES card RPG, with an optional HD remaster mode.
 - [Earthbound Companion](https://github.com/rages4calm/earthbound-companion) - Recomp of Earthbound (SNES) to PC.
 - [Exult](https://github.com/exult/exult) - Project to recreate Ultima 7 for modern operating systems.
 - [Falltergeist](https://github.com/falltergeist/falltergeist) - Crossplatform Fallout 2 game engine writen in C++ and SDL.
