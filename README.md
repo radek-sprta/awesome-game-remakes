@@ -105,6 +105,7 @@ If you are looking for not only remakes have a look at:
 - [Open Kick-Off](https://github.com/ssenegas/kickoff) - Rewriting attempt of the cult football game Kick Off 2. :flower_playing_cards:
 - [openomf](https://github.com/omf2097/openomf) - One Must Fall 2097 Remake.
 - [OpenTyrian](https://github.com/opentyrian/opentyrian) - An open-source port of Tyrian from Turbo Pascal to C. :flower_playing_cards:
+- [OpenTyrian2000 Enhanced Edition](https://github.com/Patm4nzzz/opentyrian-enhanced) - Tyrian 2000 on Godot 4 and Rust, with HD graphics, couch co-op, mods and a level editor. :flower_playing_cards:
 - [Retro-Arcade-Remakes](https://github.com/danywaked/Retro-Arcade-Remakes) - C++ retro arcade remakes showcasing clean OOP design, game loops, collision systems, and state management.
 - [SpaceRox.MX2](https://github.com/lostjared/SpaceRox.MX2) - 2D Asteroids Style Game using MX2.
 - [Taisei](https://github.com/taisei-project/taisei) - Fan-made, open-source clone of the Touhou series. :flower_playing_cards:
