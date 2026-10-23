@@ -11,6 +11,7 @@ If you are looking for game archive file formats see: [Awesome Game File Format 
 If you are looking for not only remakes have a look at:
 - [Awesome Open Source Games](https://github.com/michelpereira/awesome-open-source-games)
 - [OSGL - Open Source Games List](https://github.com/Trilarion/opensourcegames)
+- [Awesome Reverse-Engineered: Game Decompilations & Reimplementations](https://github.com/alexgaoth/awesome-reverse-engineered/blob/main/categories/game-decompilations-reimplementations.md)
 
 ---
 
