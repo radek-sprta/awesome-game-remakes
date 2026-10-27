@@ -306,6 +306,7 @@ If you are looking for not only remakes have a look at:
 - [HiOctaneTools](https://github.com/movAX13h/HiOctaneTools) - Tools to inspect and modify levels of the game Hi-Octane by Bullfrog (1995).
 - [Interstate 82 Widescreen Fix](https://github.com/SputnikKaputtnik/interstate82-widescreen-4k-fix) - Critical fixes to the game Interstate 82.
 - [Open76](https://github.com/rob518183/Open76) - Interstate '76 engine reimplementation
+- [OpenMCM2](https://github.com/crspytopgn/openmcm2) - Motocross Madness 2 (2000) engine reimplementation in Rust for Windows, macOS and Linux; uses your own game files.
 - [OpenNFS](https://github.com/OpenNFS/OpenNFS) - Attempt to recreate the classic Need for Speed Games (1-6).
 - [PlayStunts](https://github.com/ACatWithEbola/playstunts) - Recomp of Stunts to TypeScript, playable online.
 - [OutRun](https://github.com/ZgzInfinity/OutRun) - A new version of the game Out Run of 1986 for PC using SFML and C++
