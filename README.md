@@ -239,6 +239,7 @@ If you are looking for not only remakes have a look at:
 - [BtBuilder](https://github.com/dulsi/btbuilder) - An open source implementation of the Bard's Tale Construction Set.
 - [castarook](https://github.com/SamoraCletus/castarook) - Experience 3D chess with RPG combat, dynamic terrain, and dice-driven battles blending strategy and role-playing elements in a living game world.
 - [ChaosEsqueAnthology](https://sourceforge.net/projects/chaosesqueanthology/) - A free 3d game for PC that does not limit the player. Fight,Build,Gain
+- [d2d](https://github.com/psi29a/d2decomped) - Diablo II: Lord of Destruction 1.14d reimplemented in C++ from traces of the original game.exe.
 - [Daggerfall Unity](https://github.com/Interkarma/daggerfall-unity) - Recreation of Daggerfall in the Unity engine.
 - [Devilution](https://github.com/diasurgical/devilution) - Reconstructed form of Diablo's original source code.
 - [DevilutionX](https://github.com/diasurgical/devilutionX) - Diablo build for modern operating systems.
