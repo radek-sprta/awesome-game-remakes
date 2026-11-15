@@ -328,12 +328,12 @@ If you are looking for not only remakes have a look at:
 - [Test Drive II Enhanced](https://github.com/kylofon/testdrive2-enhanced) - Enhanced version of Test Drive II: The Duel.
 - [Test Drive III](https://github.com/kylofon/test-drive-3-sdl3) - Recomp of Test Drive III: The Passion.
 - [Test Drive III Enhanced](https://github.com/kylofon/testdrive3-enhanced) - Enhanced version of Test Drive III: The Passion.
-- [tube64](https://github.com/rep-stosw/tube64) - 64-bit vesion of DOS game Tube (Bullfrog, 1994)
+- [tube64](https://github.com/rep-stosw/tube64) - 64-bit version of DOS game Tube (Bullfrog, 1994)
 - [SpagettiKart](https://github.com/HarbourMasters/SpaghettiKart) - Reimplementation of Mario Kart 64 for PC.
 - [Vangers](https://github.com/KranX/Vangers) - Racing/RPG hybrid made open-source by its creators, written in C++.
 - [Vange-rs](https://github.com/kvark/vange-rs) - The idea of this project is to replicate the old look and behavior of Vangers, but with native hardware acceleration for the graphics.
 - [Vette](https://github.com/PlasticCog/Vette2026) - Recomp of the game Vette by Spectrum Holobyte.
-- [wipEout Rewrite](https://github.com/phoboslab/wipeout-rewrite) - This is a re-implementation of the 1995 PSX game wipEout. :flower_playing_cards:
+- [wipEout Rewrite](https://github.com/phoboslab/wipeout-rewrite) - Reimplementation of the 1995 PSX game wipEout. :flower_playing_cards:
 
 ## Simulator
 - [Aces of the Pacific](https://github.com/kylofon/aces-of-the-pacific-sdl3) - Recomp of Dynamix' Aces of the Pacific.
