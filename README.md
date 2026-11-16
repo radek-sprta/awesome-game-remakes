@@ -29,7 +29,6 @@ If you are looking for not only remakes have a look at:
 
 ## Action
 - [Airborn Ranger](https://github.com/xor2003/airborn-ranger) - Airborn Ranger recomp to Windows, Linux, and Android.
-- [Lantern Engine](https://github.com/Awakenchan/LanternEngine) - Bloodborne recomp to Windows and Linux.
 - [Carnage3D](https://github.com/codenamecpp/carnage3d) - Reimplementation of Grand Theft Auto.
 - [CTW-Native](https://github.com/official-kryo-to/ctw-native) - GTA: Chinatown Wars (Android) recomp to Windows and Linux.
 - [donut](https://github.com/plowteam/donut) - Reimplementation of The Simpsons: Hit & Run to Windows and Linux.
@@ -40,6 +39,7 @@ If you are looking for not only remakes have a look at:
 - [Herculan](https://github.com/kevinfoley/Herculan) - Reimplementation of Earthsiege 2 to Windows and Linux.
 - [Ico-PC](https://github.com/nathanialf/ico-pc) - ICO (PS2) recomp to desktop and mobile.
 - [King Kong Recompiled](https://github.com/TekRantGaming/king-kong-recompiled) - King Kong (Xbox 360) recomp to Windows and Linux.
+- [Lantern Engine](https://github.com/Awakenchan/LanternEngine) - Bloodborne recomp to Windows and Linux.
 - [LCS Recomp](https://github.com/elmasas/lcs-recomp) - GTA: Liberty City Stories (PSP) recomp to Windows.
 - [MDK Sdl](https://github.com/nemo22/mdk-sdl) - Port of MDK to SDL. Includes enhancements.
 - [MeleePC](https://github.com/999sian/melee-pc) - Super Smash Bros. Melee recomp to desktop and mobile.
