@@ -500,3 +500,5 @@ If you are looking for not only remakes have a look at:
 - [Zed Online](https://sourceforge.net/projects/zedonline/) - Remake of the 1996 classic game Z.
 - [Zero Hour Reforged](https://github.com/olcayseygan/CnCGeneralsZH-Reforged) - Command & Conquer: Generals - Zero Hour source port: 64-bit, Direct3D 11, VS2022/CMake, original bugs fixed and a skirmish AI that builds a base. Uses the data files from a retail copy.
 - [Zero-K](https://github.com/ZeroK-RTS/Zero-K) - Open source RTS game running on the Spring/Recoil engine
+- [isleforge](https://goodoldgames.dev/en/page/anno-1503) - Unofficial clean-room C11/SDL2 engine (GPL-3.0-or-later, public RC14) for Anno 1503 A.D. Requires a legally purchased copy of the original game. Linux x86_64 and ARM64. Very new; bugs can happen. Bug tracker: https://goodoldgames.dev/en/social.
+- [realmrun](https://goodoldgames.dev/en/page/warlords-iii) - Unofficial clean-room C11/SDL2 engine (GPL-3.0-or-later, v1.1.1) for Warlords III: Darklords Rising. Requires a legally purchased copy of the original game. Linux x86_64 and ARM64, 1-6 human-seat co-op. Very new; bugs can happen. Bug tracker: https://goodoldgames.dev/en/social.
