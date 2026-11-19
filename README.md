@@ -216,17 +216,18 @@ If you are looking for not only remakes have a look at:
 - [2009scape](https://2009scape.org) - A free & open-source remake of 2009 era RuneScape 2. :flower_playing_cards:
 - [ACEmulator](https://emulator.ac) - A custom, completely from-scratch open source server emulator for Asheron’s Call built on C#. :flower_playing_cards:
 - [FreeSO](https://github.com/riperiperi/FreeSO) - Reimplementation of The Sims Online, targetted mainly at mobile devices. :flower_playing_cards:
+- [Heart-of-Africa-Remake](https://github.com/PatrickVonMassow/Heart-of-Africa-Remake) Single-player 3D web remake of the 1985 classic The Heart of Africa: real ~1890 geography, living wildlife, period journal with in-browser TTS - three.js/WebGPU, React, TypeScript.
 - [Meridian 59](https://github.com/Meridian59/Meridian59) - The first 3D MMORPG, released in 1996 and open sourced in 2012. The original codebase for Meridian 59.
+- [Netrek](https://github.com/quozl/netrek-client-cow) - Netrek is a multiplayer battle simulation game with a Star Trek theme. Up to 16 players are divided into two teams that fight each other for dominion over the galaxy.
 - [Opengate](https://sourceforge.net/projects/opengate/) - Remake of Jumpgate.
 - [OpenRSC](https://gitlab.com/open-runescape-classic/core) - Open source accurate RuneScape Classic (2001-2003) game server in Java, based on recorded data and videos. :flower_playing_cards:
+- [Retrocycles.io](https://github.com/nanubula/retrocycles.io) - Browser port of Armagetron Advanced, the open-source 3D Tron light-cycle game. Runs in a browser tab with no install and supports online multiplayer and 1v1 duels. Playable at https://retrocycles.io. 🎴
 - [RSC-C](https://github.com/2003scape/rsc-c) - Rewrite of the RuneScape Classic (2001-2003) game client in portable C. :flower_playing_cards:
 - [RuneLite](https://github.com/runelite/runelite) - Open source Old School RuneScape (OSRS) client. :flower_playing_cards:
 - [Ryzom Core](https://github.com/ryzom/ryzomcore) - Ryzom Core contains the whole code (client, server, tools) used to make the commercial MMORPG Ryzom. :flower_playing_cards:
 - [Space Station 14](https://github.com/space-wizards/space-station-14) - Space Station 14 is a revived attempt at a Space Station 13 remake.
 - [starcup](https://github.com/teamstarcup/starcup) - A fork of the multiplayer game Space Station 14, a remake of the cult-classic Space Station 13.
 - [VoxeLibre](https://git.minetest.land/VoxeLibre/VoxeLibre) - Stable, moddable & free/libre clone of Minecraft based on the Luanti engine. :flower_playing_cards:
-- [Netrek](https://github.com/quozl/netrek-client-cow) - Netrek is a multiplayer battle simulation game with a Star Trek theme. Up to 16 players are divided into two teams that fight each other for dominion over the galaxy.
-- [Heart-of-Africa-Remake](https://github.com/PatrickVonMassow/Heart-of-Africa-Remake) Single-player 3D web remake of the 1985 classic The Heart of Africa: real ~1890 geography, living wildlife, period journal with in-browser TTS - three.js/WebGPU, React, TypeScript.
 
 ## RPG
 - [Abyss Engine](https://github.com/AbyssEngine/AbyssEngine) - Abyss Engine is a game engine designed to run games similar to 2000's style ARPGs such as Diablo II.
