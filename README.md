@@ -266,6 +266,7 @@ If you are looking for not only remakes have a look at:
 - [sfall](https://github.com/phobos2077/sfall) - A set of engine modifications for the classic game Fallout 2.
 - [Shockolate](https://github.com/Interrupt/systemshock) - Same great System Shock, new great taste.
 - [Thirdeye](https://github.com/psi29a/thirdeye) - Reimplementation of AESOP that runs Eye of the Beholder 3 and Dungeon Hack.
+- [U8 Ether Gate](https://github.com/LostMystic/u8-ether-gate) - Clean-room engine for Ultima VIII: Pagan with optional companions, turn-based combat, the Eight Virtues and original bug fixes, for Linux and the browser. Requires the original game files. Project page: https://evergamer.com/game/u8-ether-gate-e4vl
 - [UAlbion](https://github.com/csinkers/ualbion) - Remake of 1995 Albion.
 - [Ultima 5](https://github.com/synthwave-pixel/ultima5) - Modern engine for Ultima 5.
 - [Ultima 7 Decomp](https://github.com/Kitrinx/Ultima7_Decomp) - Recomp of Ultima 7. Bit exact to original.
