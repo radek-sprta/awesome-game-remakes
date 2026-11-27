@@ -302,6 +302,7 @@ If you are looking for not only remakes have a look at:
 ## Racing
 - [Daytona Arcade Recomp](https://github.com/alphanu1/daytona-arcade-recomp) - Recomp of Daytona Racing to PC.
 - [dRally](https://github.com/urxp/dRally) - Open Source Engine / Death Rally [1996]
+- [DRIG](https://github.com/PipeKnight/drig-race-driver) - Early Rust/Bevy engine reimplementation of Race Driver: GRID (2008) for Windows, Linux, and macOS; requires the original PC game files.
 - [DreeRally](https://github.com/enriquesomolinos/DreeRally) - Death Rally engine reimplementation.
 - [dethrace](https://github.com/dethrace-labs/dethrace) - Reverse engineering the 1997 game "Carmageddon"
 - [hi-octane202x](https://github.com/woalexan/hi-octane202x) - Hi-Octane with level editor using Irrlicht engine.
