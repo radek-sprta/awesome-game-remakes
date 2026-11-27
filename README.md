@@ -321,6 +321,7 @@ If you are looking for not only remakes have a look at:
 - [RVGL](https://rvgl.org/) - Cross-platform engine for Re-Volt.
 - [Scale Miniatures](https://github.com/hivvu/scale-miniatures) - Open source recomp of Micro Machines in TypeScript.
 - [SpeedBreaker](https://github.com/SpeedBreakerProject/speedbreaker) - Recomp of Need For Speed: Most Wanted (2005, Xbox 360) to PC.
+- [Spirited Drive](https://github.com/BytesNRust/spirited-drive) - Reimplementation of The Need for Speed SE (1996) for Windows and macOS; requires the original CD's files.
 - [Street Rod](https://github.com/kylofon/street-rod-sdl3) - Recomp of Street Rod.
 - [Street Rod Enhanced](https://github.com/kylofon/streetrod-enhanced) - Enhanced version of Street Rod.
 - [Test Drive](https://github.com/kylofon/test-drive-sdl3) - Open-source recomp of Test Drive (1987).
